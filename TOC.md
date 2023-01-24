@@ -38,7 +38,10 @@ We are now entering the era of “edge intelligence” in which dedicated cognit
 
 ## [[Learning and plasticity]]
 
-## [[Substrates of neural plasticity]]
+### 1.[[Substrates of neural plasticity]]
 
-## [[The hippocampus and spatial memory]]
+### 2.[[The hippocampus and spatial memory]]
 
+### 3.[[Potentiation]]
+
+### 4.[[The hebbian synapse]]

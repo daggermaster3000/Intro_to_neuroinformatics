@@ -60,6 +60,40 @@ The biological implementation of learning. Plasticity allows us to form a memory
 ![[Learning and plasticity 2023-01-23 15.29.36.excalidraw|600]]
 Memory in brain is not fixed, it moves across time (first in one area, then stored somewhere else etc.). In an experiment, a lesion in the hippocampus was induced at different points in the learning curve. When the lesion was induced during the first few days after learning the task => they do not know it/ cannot do it, but when induced much later => almost no effect on behavior.
 
-**Conclusion:** Memory is **initially** stored in **hippocampus,** then after 30 days not anymore.
+**Conclusion:** Memory is **initially** stored in **hippocampus,** [[HC]] then after 30 days not anymore.
 
 
+#pairedpulsefacilitation
+Is a **short-term, activity-dependent synaptic plasticity common to most chemically transmitting synapses**, manifested as an enhancement in the amplitude of the second of two rapidly evoked excitatory postsynaptic potentials (EPSPs)
+
+## Quiz
+
+**A receptor critically involved in LTP is.....**
+1. NMDA. ✔️
+2. AMPA. 
+3. GABA-B.
+4. CaMKII.
+
+**CaMKII (a calcium-dependent protein kinase) ....**
+1. ...binds to calcium at a specific high concentration and triggers LTD.
+2. ...binds to sodium at high calcium concentrations and triggers LTP. 
+3. ...binds to calcium at high concentrations and leads to LTP. ✔️
+4. ...binds to calcium at low calcium concentrations and leads to LTP.
+
+**NMDA receptors work as a coincidence detector in LTP. The two signals that must be present are:**
+1. A presynaptic signal followed by calcium influx. 
+2. A presynaptic followed by a postsynaptic signal. ✔️
+3. A postsynaptic signal followed by presynaptic inputs.
+4. Activity signals in at least two or more synapses.
+
+**The importance of NMDA receptors for LTP can be seen in a behavioral experiment with HC knockout-mice.**
+1. Mutant mice learn significantly slower. 
+2. Mutants don’t learn at all. ✔️
+3. After a few hours mutants don’t remember.
+4. After a few days mutants don’t remember
+
+**During the late phase of LTP....**
+1. ...the number of synapse increases ✔️
+2. ....the number or synapses decreases
+3. ....there are less transmission failures between synapse
+4. ....the increases of synapses can be measured.

@@ -1,0 +1,2 @@
+![[Pasted image 20230124152650.png|400]]
+AMPA receptors are **responsible for the bulk of fast excitatory synaptic transmission throughout the CNS** and their modulation is the ultimate mechanism that underlies much of the plasticity of excitatory transmission that is expressed in the brain.

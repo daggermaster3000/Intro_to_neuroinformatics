@@ -8,40 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea5934e6d2cfc34a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20230120164434.png"
-              }
-            }
-          },
-          {
-            "id": "b8c33ee3a087520d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The hippocampus and spatial memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e2109f4199804aa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NMDA.md",
+                "file": "Potentiation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db4c516272bae523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brain/Learning and plasticity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3031334470c195ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The hebbian synapse.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a24254a9a28d9887",
@@ -107,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20230120164434.png",
+                "file": "Brain/Learning and plasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20230120164434.png",
+                "file": "Brain/Learning and plasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20230120164434.png"
+                "file": "Brain/Learning and plasticity.md"
               }
             }
           }
@@ -169,17 +173,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a75bbf71c2b6cf35",
+  "active": "db4c516272bae523",
   "lastOpenFiles": [
     "TOC.md",
-    "The hippocampus and spatial memory.md",
-    "HC.md",
+    "Potentiation.md",
+    "The hebbian synapse.md",
+    "Brain/Learning and plasticity.md",
+    "STDP.md",
+    "CamKs.md",
+    "AMPA.md",
     "NMDA.md",
-    "Substrates of neural plasticity.md",
-    "Learning and plasticity.md",
-    "Excalidraw/Learning and plasticity 2023-01-23 15.29.36.excalidraw.md",
-    "The Neural Code.md",
-    "Grid cells.md",
-    "Finding the max neuronal response (PCALDA).md"
+    "PTP.md",
+    "Tetanic stimulation.md"
   ]
 }

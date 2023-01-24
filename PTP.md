@@ -1,0 +1,1 @@
+refers to **an increase in neurotransmitter release after a brief, high-frequency train of action potentials**. This large enhancement may last on the order of several minutes and is measured after high-frequency stimulation.
