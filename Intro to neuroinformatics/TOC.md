@@ -16,15 +16,15 @@ We are now entering the era of “edge intelligence” in which dedicated cognit
 
 • Complexity of nervous systems is not matched in computer simulations
 
-## [[Overview of the brain]]
+## ![[Overview of the brain]]
 
-## [[Brief history of neuroscience]]
+## ![[Brief history of neuroscience]]
 
-## [[Brain vs computer]]
+## ![[Brain vs computer]]
 
-## [[Organization of the brain]]
+## ![[Organization of the brain]]
 
-## [[Levels of description]]
+## ![[Levels of description]]
 
 ## [[Resting potential]]
 
