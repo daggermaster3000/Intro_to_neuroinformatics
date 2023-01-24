@@ -44,3 +44,5 @@ We are now entering the era of “edge intelligence” in which dedicated cognit
 ### 3.[[Potentiation]]
 
 ### 4.[[The hebbian synapse]]
+
+## [[Neuromorphic engineering]]
