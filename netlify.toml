@@ -39,6 +39,9 @@ SIDEBAR_COLLAPSED = "y"
 FOOTER = ""
 # (Optional, default main) Root section name.
 ROOT_SECTION_NAME = "main"
+COMMENTS_GISCUSS = "y"
+EDIT_PAGE = "y"
+EDIT_PAGE_BUTTON_TEXT = "Change my mind!"
 # (Optional) visjs graph options. Can remove if desired.
 GRAPH_OPTIONS = """
         {
@@ -66,11 +69,15 @@ GRAPH_OPTIONS = """
         	},
         	interaction: {
         		hover: true,
+				multiselect: true,
         	},
         	height: "100%",
         	width: "100%",
         	physics: {
         		solver: "repulsion",
         	},
+			layout: {
+				randomSeed: 123, 
+			},
         }
         """
