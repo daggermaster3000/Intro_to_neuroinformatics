@@ -11,12 +11,8 @@
             "id": "3031334470c195ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brain/Learning and plasticity.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "a24254a9a28d9887",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brain/Learning and plasticity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brain/Learning and plasticity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Brain/Learning and plasticity.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,17 +140,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "3031334470c195ff",
+  "active": "a75bbf71c2b6cf35",
   "lastOpenFiles": [
+    "TOC.md",
+    "Finding the max neuronal response (PCA/LDA).md",
+    "Brain/Learning and plasticity.md",
     "Excalidraw/Learning and plasticity 2023-01-23 15.29.36.excalidraw.md",
     "Excalidraw/Plasticity 2023-01-21 14.24.45.excalidraw.md",
     "Brain/Action potential.md",
     "Physics/Resting potential.md",
     "Brain/Plasticity.md",
     "Excalidraw/Plasticity 2023-01-21 14.10.17.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-16 14.50.57.excalidraw.md",
-    "Excalidraw/Action potential 2023-01-20 10.47.41.excalidraw.md",
-    "Excalidraw/Action potential 2023-01-20 13.41.57.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-16 14.44.42.excalidraw.md"
+    "Excalidraw/Drawing 2023-01-16 14.50.57.excalidraw.md"
   ]
 }
