@@ -1,0 +1,2 @@
+One of the first experiments on (en)coding were in primates. While they were learning to move an arm in different positions, the activity in the motor cortex was measured. The results were spiking patterns of different neurons. Then one can draw a Tuning curve (=specificity of the neuron to encode the reaching activity of the primate) for every neuron. Concept of [[tuning curve]] applies to spatial & temporal dimensions.
+![[Pasted image 20230121160236.png]]
