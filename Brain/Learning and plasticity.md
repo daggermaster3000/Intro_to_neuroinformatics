@@ -57,7 +57,7 @@ The biological implementation of learning. Plasticity allows us to form a memory
 • Motor Learning
 
 ## Relevant temporal scales for learning
-![[Learning and plasticity 2023-01-23 15.29.36.excalidraw|600]]
+![[Learning and plasticity 2023-01-23 15.29.36.excalidraw.svg|700]]
 Memory in brain is not fixed, it moves across time (first in one area, then stored somewhere else etc.). In an experiment, a lesion in the hippocampus was induced at different points in the learning curve. When the lesion was induced during the first few days after learning the task => they do not know it/ cannot do it, but when induced much later => almost no effect on behavior.
 
 **Conclusion:** Memory is **initially** stored in **hippocampus,** [[HC]] then after 30 days not anymore.

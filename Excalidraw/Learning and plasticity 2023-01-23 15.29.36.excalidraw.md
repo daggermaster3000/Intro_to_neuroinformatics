@@ -959,10 +959,10 @@ synapses change size ^fqLkZJWP
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 336.8722077851909,
-		"scrollY": 586.4529627898092,
+		"scrollX": 370.91319047058266,
+		"scrollY": 472.85594580172005,
 		"zoom": {
-			"value": 0.9
+			"value": 1.4000000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

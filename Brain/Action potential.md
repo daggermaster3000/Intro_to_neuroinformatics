@@ -9,7 +9,7 @@ Action potentials are needed to pass information on reliably (since through the 
 • Stimulus intensity encoded as AP rate ($r_{AP}$)
 - All or none principle
 • Several phases:
-![[Action potential 2023-01-20 10.47.41.excalidraw|600]]
+![[Action potential 2023-01-20 10.47.41.excalidraw.svg|600]]
 
 Increasing $I_{e}$ will just make the AP occur sooner (bc threshold is reached earlier).
 
@@ -97,7 +97,7 @@ $P_{k} = n^4$
 Here is a graph of the solutions for the different parameters and a given voltage.
 $\tau_{n}(V) \frac{dn(t)}{dt} = n_{\infty}(V)-n(t)$
 
-![[Action potential 2023-01-20 13.41.57.excalidraw|800]]
+![[Action potential 2023-01-20 13.41.57.excalidraw.svg|900]]
 This model fits well the measured conductances
 
 #### Voltage dependance

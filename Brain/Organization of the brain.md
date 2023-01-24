@@ -26,12 +26,12 @@ The long projection of the cell, conducts the [[action potentials]]. May be [my
 - Ligand gated ion channels (fast process)
 ![[Pasted image 20230116145429.png]]
 - Gprotein coupled (slow process)
-![[Pasted image 20230116145528.png]]
+![[Pasted image 20230116145528.png|400]]
 ##### Dendrites
 Input of the neuron
-![[Pasted image 20230116145840.png]]
+![[Pasted image 20230116145840.png|400]]
 ##### Flow of the neuron
-![[Pasted image 20230116145953.png]]
+![[Pasted image 20230116145953.png|400]]
 ## [[Nervous systems]]
 ## Neurotransmitters
 One neuron only releases one kind of NT.
