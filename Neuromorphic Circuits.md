@@ -38,6 +38,10 @@ In subthreshold, for a constant $I$, a $ΔV$ change in the source voltage means 
 Given a ready made transistor, we can influence $I$ with $V_{gs}$ and $V_{ds}$ 
 ![[Pasted image 20230124185133.png|400]]
 ![[Pasted image 20230124185149.png|400]]
+
+We can view this in three dimensions to get a better grasp of it.
+![[Pasted image 20230124185324.png|400]]
+
 ## P-FETs
 ![[Pasted image 20230124182935.png|300]]
 Where the bulk,  $V_{b}$ is connected to $V_{dd}$ 
