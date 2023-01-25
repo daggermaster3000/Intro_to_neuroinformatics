@@ -11,4 +11,4 @@ The dependance of $I_{1}$ and $I_{2}$ can be seen in the next graph, where the c
 
 
 ## Uses
-Compressive non-linearities are very useful for implementation of different functions (ex: [[neural networks]]) 
+Compressive non-linearities are very useful for implementation of different functions (ex: [[neural networks]]). The output currents depend only on the difference of the input voltages: The circuit has a small [[common-mode]] sensitivity. Given that voltages are [[differential-mode]] rather than absolute quantities such a property is very useful.
