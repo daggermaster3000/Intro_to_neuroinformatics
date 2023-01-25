@@ -22,4 +22,8 @@ $$
 ![[Transconductance amplifier 2023-01-25 14.23.00.excalidraw.svg|400]]
 %%[[Transconductance amplifier 2023-01-25 14.23.00.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Transconductance amplifier 2023-01-25 14.23.00.excalidraw.dark.svg|dark exported image]]%%
 
-$g_{m}$ is the [[transconductance]] of the amplifier (it has the dimensions of a conductance), but the outpu 
+$g_{m}$ is the [[transconductance]] of the amplifier (it has the dimensions of a conductance), but the output conductance is:
+
+$g_{d}=-\frac{\delta I_{out}}{\delta V_{out}}=\frac{I_{b}}{V_{E}}$
+
+where $V_{E}$ is the [[early voltage]] of $M_{2}$ and $M_{5}$.

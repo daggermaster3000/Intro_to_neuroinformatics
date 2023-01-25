@@ -32,7 +32,7 @@ $max(V_{1},V_{2})>\kappa^{-1}(4U_{T}+\kappa V_{b})$
 
 
 
-If $M_{b}$ is not in saturation the output will depend strongly on the common mode of the inputs
+>If $M_{b}$ is not in saturation the output will depend strongly on the common mode of the inputs
 
 
 
