@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current mirror.md",
+                "file": "Neuromorphic Circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "820b82c7f1808592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Differenial pair.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current mirror.md",
+                "file": "Excalidraw/Differenial pair 2023-01-25 11.03.54.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current mirror.md",
+                "file": "Excalidraw/Differenial pair 2023-01-25 11.03.54.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current mirror.md"
+                "file": "Excalidraw/Differenial pair 2023-01-25 11.03.54.excalidraw.md"
               }
             }
           }
@@ -161,17 +173,52 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "13dc7d0f3f799d3d",
+  "floating": {
+    "id": "b348f2b5f39a6a58",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6856046e9fdef362",
+        "type": "window",
+        "children": [
+          {
+            "id": "707ed23e58d6d42a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d0884876ace603be",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Differenial pair 2023-01-25 11.03.54.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1228,
+        "y": 28,
+        "width": 600,
+        "height": 926,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d0884876ace603be",
   "lastOpenFiles": [
+    "Differenial pair.md",
     "Neuromorphic Circuits.md",
+    "Current mirror.md",
     "Neuromorphic engineering.md",
     "Current source.md",
     "TOC.md",
     "Finding the max neuronal response (PCA/LDA).md",
     "Brain/Learning and plasticity.md",
     "Excalidraw/Learning and plasticity 2023-01-23 15.29.36.excalidraw.md",
-    "Excalidraw/Plasticity 2023-01-21 14.24.45.excalidraw.md",
-    "Brain/Action potential.md",
-    "Physics/Resting potential.md"
+    "Excalidraw/Plasticity 2023-01-21 14.24.45.excalidraw.md"
   ]
 }
