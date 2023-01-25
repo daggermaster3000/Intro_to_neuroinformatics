@@ -38,3 +38,5 @@ If $M_{b}$ is not in saturation the output will depend strongly on the common mo
 
 ## Uses
 Compressive non-linearities are very useful for implementation of different functions (ex: [[neural networks]]). The output currents depend only on the difference of the input voltages: The circuit has a small [[common-mode]] sensitivity. Given that voltages are [[differential-mode]] rather than absolute quantities such a property is very useful.
+
+This circuit is also combined with the [[Current mirror]] (to implement an $I_{1}-I_{2}$ output ) to get the [[Transconductance amplifier]].

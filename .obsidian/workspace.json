@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuromorphic Circuits.md",
+                "file": "Differenial pair.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differenial pair.md",
+                "file": "Transconductance amplifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differenial pair.md",
+                "file": "Excalidraw/Transconductance amplifier 2023-01-25 14.02.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differenial pair.md",
+                "file": "Excalidraw/Transconductance amplifier 2023-01-25 14.02.29.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differenial pair.md"
+                "file": "Excalidraw/Transconductance amplifier 2023-01-25 14.02.29.excalidraw.md"
               }
             }
           }
@@ -173,17 +173,52 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "460dd902b710cfcf",
+  "floating": {
+    "id": "b348f2b5f39a6a58",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d119fd378ec0d49d",
+        "type": "window",
+        "children": [
+          {
+            "id": "7f464edd6f3a909b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "913b796eaf364f67",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Transconductance amplifier 2023-01-25 14.02.29.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 752,
+        "y": 0,
+        "width": 752,
+        "height": 963,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "913b796eaf364f67",
   "lastOpenFiles": [
-    "Excalidraw/Differenial pair 2023-01-25 11.03.54.excalidraw.md",
+    "Transconductance amplifier.md",
     "Differenial pair.md",
     "Neuromorphic Circuits.md",
+    "Excalidraw/Differenial pair 2023-01-25 11.03.54.excalidraw.md",
     "differential-mode.md",
     "common-mode.md",
     "Differenial pair 2023-01-25 11.03.54.excalidraw.dark.svg.md",
     "images/Pasted image 20230124181933.png",
     "Current mirror.md",
-    "Neuromorphic engineering.md",
-    "Current source.md"
+    "Neuromorphic engineering.md"
   ]
 }
