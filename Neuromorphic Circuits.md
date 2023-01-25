@@ -46,3 +46,26 @@ We can view this in three dimensions to get a better grasp of it.
 ![[Pasted image 20230124182935.png|300]]
 Where the bulk,  $V_{b}$ is connected to $V_{dd}$ 
 ![[Pasted image 20230124184929.png|400]]
+
+## Operating regimes
+![[Pasted image 20230125101507.png|400]]
+
+### Linear or triode
+
+
+### Saturation
+
+
+
+
+
+## The circuits
+- [[Current source]]
+- [[Current mirror]]
+- [[Differenial pair]]
+- [[Transconductance amplifier]]
+- [[Spike generating mechanism]]
+- [[Conductance based neuron]]
+- [[Integrate and fire neuron]]
+- [[Current mode DPI]]
+- [[Synapse analog circuit]]
