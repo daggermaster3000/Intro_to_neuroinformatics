@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conclusions.md",
+                "file": "Neuromorphic engineering/AER.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "a24254a9a28d9887",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conclusions.md",
+                "file": "Neuromorphic engineering/AER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conclusions.md",
+                "file": "Neuromorphic engineering/AER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conclusions.md"
+                "file": "Neuromorphic engineering/AER.md"
               }
             }
           }
@@ -161,17 +160,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "13dc7d0f3f799d3d",
+  "active": "a75bbf71c2b6cf35",
   "lastOpenFiles": [
-    "Neuromorphic engineering.md",
-    "Neuromorphic vs conventional.md",
-    "AER.md",
-    "Neuromorphic processors.md",
-    "Neuromorphic Circuits.md",
+    "images/Pasted image 20230125114048.png",
+    "Neuromorphic engineering/Conclusions.md",
+    "Neuromorphic engineering/Neuromorphic engineering.md",
+    "Neuromorphic engineering/Neuromorphic vs conventional.md",
+    "Neuromorphic engineering/AER.md",
+    "Neuromorphic engineering/Neuromorphic processors.md",
+    "Neuromorphic engineering/Neuromorphic Circuits.md",
     "TOC.md",
-    "Synapse analog circuit.md",
-    "Current mode DPI.md",
-    "Generalized integrate and fire.md",
-    "Conductance based neuron.md"
+    "Neuromorphic engineering/Synapse analog circuit.md",
+    "Neuromorphic engineering/Current mode DPI.md"
   ]
 }
