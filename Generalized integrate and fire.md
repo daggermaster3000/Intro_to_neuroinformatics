@@ -1,0 +1,1 @@
+Bridges the gap between [[Conductance based neuron]] and [[Integrate and fire neuron]].
