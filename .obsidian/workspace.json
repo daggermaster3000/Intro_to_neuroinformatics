@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conductance based neuron.md",
+                "file": "Neuromorphic Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conductance based neuron.md",
+                "file": "Generalized integrate and fire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conductance based neuron.md",
+                "file": "Generalized integrate and fire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conductance based neuron.md"
+                "file": "Generalized integrate and fire.md"
               }
             }
           }
@@ -173,12 +173,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "13dc7d0f3f799d3d",
+  "active": "ae89d7ff5a54ec01",
   "lastOpenFiles": [
     "Neuromorphic Circuits.md",
+    "Conductance based neuron.md",
     "Generalized integrate and fire.md",
     "Integrate and fire neuron.md",
-    "Conductance based neuron.md",
     "Excalidraw/Conductance based neuron 2023-01-25 14.32.45.excalidraw.md",
     "Spike generating mechanism.md",
     "Excalidraw/Spike generating mechanism 2023-01-25 14.39.02.excalidraw.md",
