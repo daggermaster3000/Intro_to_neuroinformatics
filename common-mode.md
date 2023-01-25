@@ -3,3 +3,4 @@ In most [electrical circuits](https://en.wikipedia.org/wiki/Electrical_circuit 
 
 $U_{cm}=\frac{U_{1}+U_{2}}{2}$
 
+En gros the circuit responds to the common signal

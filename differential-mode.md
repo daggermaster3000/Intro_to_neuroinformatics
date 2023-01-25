@@ -1,1 +1,1 @@
-Out of phase (in time)
+En gros the circuit responds to the difference between the two input signals

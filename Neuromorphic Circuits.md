@@ -54,8 +54,22 @@ Where the bulk,  $V_{b}$ is connected to $V_{dd}$
 
 
 ### Saturation
+$V_{ds}>4U_{T}(100mV)$
+![[Pasted image 20230125114742.png|350]]
+As increases beyond , the concentration of electrons at the drain end
+of the channel can be neglected with respect to the concentration at the source
+end because of the larger barrier height as shown in Fig. 3.5(c). Any electrons
+in the channel that diffuse close to the drain are immediately swept into the
+drain by the electric field in this region. Because the diffusion current is no
+longer dependent on the electron concentration at the drain, the current in
+the transistor depends only on and is approximately equal to.
 
+This region of operation is called the saturation region. As seen in Fig. 3.7, the
+current is approximately constant in this region. Figure 3.8 shows a family
+of curves measured from the same nFET in the subthreshold region with gate
+voltages ranging from $0.3 V$ to $0.7 V$. 
 
+In these curves, the transition point fromthe linear region to the saturation region occurs around $V_{ds}=100 mV$ and is independent of the gate voltage.
 
 
 
