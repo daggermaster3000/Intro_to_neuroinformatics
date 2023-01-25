@@ -50,10 +50,11 @@ Where the bulk,  $V_{b}$ is connected to $V_{dd}$
 ## Operating regimes
 ![[Pasted image 20230125101507.png|400]]
 
-### Linear or triode
+### Subthreshold
+#### Linear or ohmic or triode
 
 
-### Saturation
+#### Saturation
 $V_{ds}>4U_{T}(100mV)$
 ![[Pasted image 20230125114742.png|350]]
 As increases beyond , the concentration of electrons at the drain end
@@ -71,6 +72,12 @@ voltages ranging from $0.3 V$ to $0.7 V$.
 
 In these curves, the transition point fromthe linear region to the saturation region occurs around $V_{ds}=100 mV$ and is independent of the gate voltage.
 
+## Superthreshold
+![[Pasted image 20230125115340.png]]
+The equations change a bit, but luckily we dont work much in this regime
+### Saturation
+
+### Triode
 
 
 ## The circuits
