@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "9d8cdf6e1ab44cdb",
+            "id": "47050d712ee1eefd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feed forward networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13dc7d0f3f799d3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuromorphic engineering/AER.md",
+                "file": "Boltzmann machines.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feed forward networks.md",
+                "file": "Boltzmann machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feed forward networks.md",
+                "file": "Boltzmann machines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feed forward networks.md"
+                "file": "Boltzmann machines.md"
               }
             }
           }
@@ -185,11 +173,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "9d8cdf6e1ab44cdb",
+  "active": "47050d712ee1eefd",
   "lastOpenFiles": [
-    "Hopfield networks.md",
-    "Feed forward networks.md",
     "Learning and networks.md",
+    "Feed forward networks.md",
+    "Hopfield networks.md",
     "Brain/Substrates of neural plasticity.md",
     "TOC.md",
     "Brain/Organization of the brain.md",

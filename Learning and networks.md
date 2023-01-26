@@ -31,3 +31,5 @@ TODO...
 ## [[Hopfield networks]]
 
 ## [[Feed forward networks]]
+
+## [[Boltzmann machines]]
