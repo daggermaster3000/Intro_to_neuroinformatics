@@ -45,4 +45,6 @@ We are now entering the era of “edge intelligence” in which dedicated cognit
 
 ### 4.[[The hebbian synapse]]
 
+## [[Learning and networks]]
+
 ## [[Neuromorphic engineering]]

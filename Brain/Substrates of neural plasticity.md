@@ -21,7 +21,7 @@ It is very well known that the most fundamental unit of deep neural networks is 
 - The weights and biaises definfe the boundary
 - Can be trained on labeled datasets
 
-he difference between the McCulloch& Pitts Neuron and the Perceptron is that in the McCulloch& Pitts Neuron the Inputs can only be 0 or 1 and in the Perceptron they can be anything.
+The difference between the McCulloch& Pitts Neuron and the Perceptron is that in the McCulloch& Pitts Neuron the Inputs can only be 0 or 1 and in the Perceptron they can be anything.
 
 ![[Pasted image 20230123163043.png|400]]
 The neuron just sums the inputs and activates or not based on a threshold. 
@@ -34,3 +34,13 @@ But only linear classification can be performed (xor is unsolvable)
 ![[Pasted image 20230123164104.png]]
 ### Perceptron learning algorithm
 ![[Pasted image 20230123163904.png|400]]
+
+### Difference with biological neurons
+**similarities:** 
+- Both can be active or inactive. 
+- The input/output is directed. 
+- The activation of a neuron is dependent on a weighted function of other neurons.
+**differences:** 
+- Real neurons exist in continuous time, whereas McCulloch-Pitts neurons operate in discrete time.
+- Real neurons have degrees of activation, not just on/off. 
+- The activation as a function of the inputs of real neuron is typically not linear or threshold linear
