@@ -29,3 +29,5 @@ TODO...
 
 
 ## [[Hopfield networks]]
+
+## [[Feed forward networks]]
