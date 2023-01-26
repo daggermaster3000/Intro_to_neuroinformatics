@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning and networks.md",
+                "file": "Learning and networks/Learning and networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interacting neural populations.md",
+                "file": "Learning and networks/Boltzmann machines.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "a24254a9a28d9887",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interacting neural populations.md",
+                "file": "Learning and networks/Boltzmann machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interacting neural populations.md",
+                "file": "Learning and networks/Boltzmann machines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interacting neural populations.md"
+                "file": "Learning and networks/Boltzmann machines.md"
               }
             }
           }
@@ -175,15 +174,15 @@
   },
   "active": "92598ad7406e3bb2",
   "lastOpenFiles": [
-    "Learning and networks.md",
-    "Boltzmann machines.md",
-    "Feed forward networks.md",
-    "Hopfield networks.md",
+    "Untitled.md",
+    "Learning and networks/Boltzmann machines.md",
+    "images/Pasted image 20230126114224.png",
+    "Learning and networks/Interacting neural populations.md",
+    "Learning and networks/Learning and networks.md",
+    "Learning and networks/Feed forward networks.md",
+    "Learning and networks/Hopfield networks.md",
     "Brain/Substrates of neural plasticity.md",
     "TOC.md",
-    "Brain/Organization of the brain.md",
-    "Excalidraw/Organization of the brain 2023-01-17 12.44.42.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-16 14.50.57.excalidraw.md",
-    "Neuromorphic engineering/AER.md"
+    "Brain/Organization of the brain.md"
   ]
 }
