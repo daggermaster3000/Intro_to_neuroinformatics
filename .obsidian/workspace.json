@@ -8,43 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3031334470c195ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c98d0be1051fb22a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning and networks/Learning and networks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92598ad7406e3bb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning and networks/Boltzmann machines.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "a24254a9a28d9887",
@@ -110,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning and networks/Boltzmann machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning and networks/Boltzmann machines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learning and networks/Boltzmann machines.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,17 +140,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a75bbf71c2b6cf35",
+  "active": "c98d0be1051fb22a",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Learning and networks/Learning and networks.md",
+    "TOC.md",
+    "action potentials.md",
     "Learning and networks/Boltzmann machines.md",
+    "Untitled.md",
     "images/Pasted image 20230126114224.png",
     "Learning and networks/Interacting neural populations.md",
-    "Learning and networks/Learning and networks.md",
     "Learning and networks/Feed forward networks.md",
     "Learning and networks/Hopfield networks.md",
-    "Brain/Learning and plasticity/Substrates of neural plasticity.md",
-    "TOC.md",
-    "Brain/Organization of the brain.md"
+    "Brain/Learning and plasticity/Substrates of neural plasticity.md"
   ]
 }
