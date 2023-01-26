@@ -26,4 +26,4 @@ The brain must recover the third variable from the two noisy others.
 **example:** Locating a sound source
 
 ## Cue integration
-Big noise in all inputs, the brain must refine the estimates of all the inputs. -> attractor network is useful for this. Given the noisy 
+Big noise in all inputs, the brain must refine the estimates of all the inputs. -> attractor network is useful for this. Given the noisy hills, the network will converge to a stable state low noise state.
