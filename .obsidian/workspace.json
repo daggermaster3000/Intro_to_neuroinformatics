@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOC.md",
+                "file": "Brain/Organization of the brain.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuromorphic engineering/AER.md",
+                "file": "Brain/Organization of the brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuromorphic engineering/AER.md",
+                "file": "Brain/Organization of the brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuromorphic engineering/AER.md"
+                "file": "Brain/Organization of the brain.md"
               }
             }
           }
@@ -161,17 +160,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a75bbf71c2b6cf35",
+  "active": "3031334470c195ff",
   "lastOpenFiles": [
+    "Excalidraw/Organization of the brain 2023-01-17 12.44.42.excalidraw.md",
+    "Brain/Organization of the brain.md",
+    "Excalidraw/Drawing 2023-01-16 14.50.57.excalidraw.md",
+    "TOC.md",
+    "Neuromorphic engineering/AER.md",
     "images/Pasted image 20230125114048.png",
     "Neuromorphic engineering/Conclusions.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
     "Neuromorphic engineering/Neuromorphic vs conventional.md",
-    "Neuromorphic engineering/AER.md",
-    "Neuromorphic engineering/Neuromorphic processors.md",
-    "Neuromorphic engineering/Neuromorphic Circuits.md",
-    "TOC.md",
-    "Neuromorphic engineering/Synapse analog circuit.md",
-    "Neuromorphic engineering/Current mode DPI.md"
+    "Neuromorphic engineering/Neuromorphic processors.md"
   ]
 }

@@ -36,7 +36,7 @@ Input of the neuron
 ## Neurotransmitters
 One neuron only releases one kind of NT.
 
-![[Drawing 2023-01-16 14.50.57.excalidraw]]
+![[Drawing 2023-01-16 14.50.57.excalidraw.svg]]
 
 ## The skull
 ![[Pasted image 20230117123046.png|400]]
@@ -57,7 +57,7 @@ Provides chemical protection and nurtition by supplying the cerebro spinal fluid
 
 ## Major divisions of the brain
 
-![[Organization of the brain 2023-01-17 12.44.42.excalidraw]]
+![[Organization of the brain 2023-01-17 12.44.42.excalidraw.svg]]
 
 The myelencephalon is responsible for breathing and vital functions
 
