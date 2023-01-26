@@ -33,3 +33,5 @@ TODO...
 ## [[Feed forward networks]]
 
 ## [[Boltzmann machines]]
+
+## [[Interacting neural populations]]
