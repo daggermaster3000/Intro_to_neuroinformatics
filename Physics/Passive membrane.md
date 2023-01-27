@@ -24,33 +24,17 @@ If we inject an external current $I_e$ into this neuron (ex: electrode), we will
 We will use the conservation of charge for this:
 $$I_e = I_c + I_m$$
 And Ohm's law to get $I_m$:
-$$
-I_m = g_m(V-E_m)
-$$
+$$I_m = g_m(V-E_m)$$
 And membrane capacitance to get $I_c$:
-$$
-C_m = \frac{Q_m}{V} 
-$$
-$$
-C_m V = Q_m
-$$
+$$C_m = \frac{Q_m}{V} $$
+$$C_m V = Q_m$$
 By derivating relatively to time $t$ we get:
-$$
-C_m \frac{dV}{dt} = \frac{dQ_m}{dt} = I_c
-$$
+$$C_m \frac{dV}{dt} = \frac{dQ_m}{dt} = I_c$$
 Plugging in to the first equation we get:
-$$
-\begin{align}
-I_{e} - I_{m} = I_{c} \\
-I_{e} - g_{m}(V-E_{m}) = C_{m}\frac{dV}{dt} \\
-\end{align}
-$$
+$$\begin{align}I_{e} - I_{m} = I_{c} \\I_{e} - g_{m}(V-E_{m}) = C_{m}\frac{dV}{dt}\\ \end{align}$$
+
 Next using $g=\frac{1}{R}$, we can simplify to extract the time constant ($\tau = RC$):
-$$
-\begin{align}
-R_{m}I_{e}-(V-E_{m}) = \tau_{m} \frac{dV}{dt}
-\end{align}
-$$
+$$\begin{align}R_{m}I_{e}-(V-E_{m}) = \tau_{m} \frac{dV}{dt}\end{align}$$
 where, $E_{m}$ is the resting potential
 
 #### **Steady state solution**
@@ -59,17 +43,10 @@ We can next solve this equation for a steady state solution, where we wait to in
 This implies: $\frac{dV}{dt} = 0$
 And we get:
 
-$$
-\begin{align}
+$$\begin{align}
 R_{m}I_{e}-(V_{\infty}-E_{m}) = 0 \\ \\
 V_{\infty} = R_{m}I_{e} + E_{m} 
-\end{align}
-
-
-
-
-
-$$
+\end{align}$$
 ![[Pasted image 20230119150914.png|300]]
 
 #### General solution
