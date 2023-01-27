@@ -43,10 +43,7 @@ We can next solve this equation for a steady state solution, where we wait to in
 This implies: $\frac{dV}{dt} = 0$
 And we get:
 
-$$\begin{align}
-R_{m}I_{e}-(V_{\infty}-E_{m}) = 0 \\ \\
-V_{\infty} = R_{m}I_{e} + E_{m} 
-\end{align}$$
+$$\begin{align}R_{m}I_{e}-(V_{\infty}-E_{m}) = 0 \\ \\ V_{\infty} = R_{m}I_{e} + E_{m} \end{align}$$
 ![[Pasted image 20230119150914.png|300]]
 
 #### General solution
@@ -85,25 +82,19 @@ You could even add an additional channel type at the synapse ($I_{s}$) which is 
 Using KCL we have:
 ![[Pasted image 20230119172251.png|300]]
 Plugging in the respective terms we get:
-$$
-\begin{align}
+$$\begin{align}
 I_{e} = I_{c} + I_{m} + I_{s} \\
 I_{e} = C_{m} \frac{dV}{dt} + g_{m}(V-E_{m})+g_{s}(V-E_{s}) \\
 C_{m} \frac{dV}{dt} = I_{e} -g_{m}(V-E_{m})-g_{s}(V-E_{s}) 
-\end{align}
-$$
+\end{align}$$
 At steady state $\frac{dV}{dt} = 0$:
 $$
 V_{\infty} = \frac{I_{e}+g_{m}E_{m}+g_{s}E_{s}}{g_{m}+g_{s}}
 $$
 If $I_{e}=0, \space  g_{s} \gg g_{m}$:
-$$
-V_{\infty} = E_{s}
-$$
+$$V_{\infty} = E_{s}$$
 If $I_{e}>0, \space  g_{s} \gg g_{m}$:
-$$
-V_{\infty} = E_{s} + \frac{I_{e}}{g_{s}}
-$$
+$$V_{\infty} = E_{s} + \frac{I_{e}}{g_{s}}$$
 (because $g_{m} \rightarrow 0$)
 The last equation explains #shuntinginhibition: One synapse remains open and makes it harder for other synapses to increase the potential. (The effect of an external current is reduced by the $g_{s}$ conductance)
 
@@ -114,11 +105,9 @@ We start by adding longitudinal current and resistance.
 No cross current (orthogonal to x), ok for long distances.
 ![[Pasted image 20230119173939.png|400]]
 Applying conservation of charge:
-$$
-\begin{align}
+$$\begin{align}
 I_{L}(x+\Delta x) = I_{L}(x) + I_{e} - I_{m} -I_{c}
-\end{align}
-$$
+\end{align}$$
 #### Longitudinal current
 Makes the ==voltage change across space==
 ![[Pasted image 20230119174218.png]]
