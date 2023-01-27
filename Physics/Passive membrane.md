@@ -31,7 +31,7 @@ $$C_m V = Q_m$$
 By derivating relatively to time $t$ we get:
 $$C_m \frac{dV}{dt} = \frac{dQ_m}{dt} = I_c$$
 Plugging in to the first equation we get:
-$$\begin{align}I_{e} - I_{m} = I_{c} \\I_{e} - g_{m}(V-E_{m}) = C_{m}\frac{dV}{dt}\\ \end{align}$$
+$$I_{e} - I_{m} = I_{c} $$$$I_{e} - g_{m}(V-E_{m}) = C_{m}\frac{dV}{dt}$$
 
 Next using $g=\frac{1}{R}$, we can simplify to extract the time constant ($\tau = RC$):
 $$\begin{align}R_{m}I_{e}-(V-E_{m}) = \tau_{m} \frac{dV}{dt}\end{align}$$
