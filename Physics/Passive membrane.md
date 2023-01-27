@@ -82,11 +82,7 @@ You could even add an additional channel type at the synapse ($I_{s}$) which is 
 Using KCL we have:
 ![[Pasted image 20230119172251.png|300]]
 Plugging in the respective terms we get:
-$$\begin{align}
-I_{e} = I_{c} + I_{m} + I_{s} \\
-I_{e} = C_{m} \frac{dV}{dt} + g_{m}(V-E_{m})+g_{s}(V-E_{s}) \\
-C_{m} \frac{dV}{dt} = I_{e} -g_{m}(V-E_{m})-g_{s}(V-E_{s}) 
-\end{align}$$
+$$\begin{align}I_{e} = I_{c} + I_{m} + I_{s} \\ I_{e} = C_{m} \frac{dV}{dt} + g_{m}(V-E_{m})+g_{s}(V-E_{s}) \\ C_{m} \frac{dV}{dt} = I_{e} -g_{m}(V-E_{m})-g_{s}(V-E_{s}) \end{align}$$
 At steady state $\frac{dV}{dt} = 0$:
 $$
 V_{\infty} = \frac{I_{e}+g_{m}E_{m}+g_{s}E_{s}}{g_{m}+g_{s}}
@@ -105,9 +101,7 @@ We start by adding longitudinal current and resistance.
 No cross current (orthogonal to x), ok for long distances.
 ![[Pasted image 20230119173939.png|400]]
 Applying conservation of charge:
-$$\begin{align}
-I_{L}(x+\Delta x) = I_{L}(x) + I_{e} - I_{m} -I_{c}
-\end{align}$$
+$$\begin{align}I_{L}(x+\Delta x) = I_{L}(x) + I_{e} - I_{m} -I_{c}\end{align}$$
 #### Longitudinal current
 Makes the ==voltage change across space==
 ![[Pasted image 20230119174218.png]]
