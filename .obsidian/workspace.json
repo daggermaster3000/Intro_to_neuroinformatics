@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Passive membrane.md",
+                "file": "Physics/Ionic flux.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "a24254a9a28d9887",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Passive membrane.md",
+                "file": "Physics/Ionic flux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Passive membrane.md",
+                "file": "Physics/Ionic flux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Passive membrane.md"
+                "file": "Physics/Ionic flux.md"
               }
             }
           }
@@ -150,6 +149,7 @@
   },
   "active": "c98d0be1051fb22a",
   "lastOpenFiles": [
+    "Physics/Passive membrane.md",
     "TOC.md",
     "Learning and networks/Learning and networks.md",
     "action potentials.md",
@@ -158,7 +158,6 @@
     "images/Pasted image 20230126114224.png",
     "Learning and networks/Interacting neural populations.md",
     "Learning and networks/Feed forward networks.md",
-    "Learning and networks/Hopfield networks.md",
-    "Brain/Learning and plasticity/Substrates of neural plasticity.md"
+    "Learning and networks/Hopfield networks.md"
   ]
 }
