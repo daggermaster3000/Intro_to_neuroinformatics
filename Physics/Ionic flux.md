@@ -12,10 +12,11 @@ We will now quantify the flux of an ion through a cell membrane that is only per
 
 ### Out In
 Positive charge will just get sucked in
-$$\text{Flux}_{out \rightarrow in} = \gamma [K^+]_{out}$$
+$$ \text{Flux}_{out \rightarrow in} = \gamma [K^+]_{out}$$
 ### In Out
 We have to add a term that represents the fraction of particles that have enough kinetic energy to make through the barrier.
-$$\text{Flux}_{in \rightarrow out} = \gamma [K^+]_{in} \space p(E_{kinetic}>|qV_{eq}|)$$
+
+$$ \text{Flux}_{in \rightarrow out} = \gamma [K^+]_{in} \space p(E_{kinetic}>|qV_{eq}|)$$
 where,
 - $\gamma = \text{number/area of channels/ fraction of channels getting to the entrance}$
 - $q = 1.60 e^{-19}$
