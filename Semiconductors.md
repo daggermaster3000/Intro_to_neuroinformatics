@@ -51,4 +51,14 @@ Where,
 
 - $E_{F}$ is the enrgy at which the occupation probability is $0.5$ (**Fermi level**)
 - $k = 1.38 \times 10^{-23}J/K$ (**Boltzmann constant**)
-- 
+
+For typical impurity doping concentrations and bandgaps of commonly used semiconductors $E_{F}$ is well-separated from the valence and conduction band edges, such that $|E-E_{F}|\gg kT$ for all allowed energy states. This simplifies the Fermi-Dirac distribution in the **conduction band** to the **Boltzmann distribution**. 
+
+$F(E)=e^{-(E-E_{F})/kT}$
+
+The states above the Fermi level are occupied with the Boltzmann distribution and states below are **unoccupied** with the Boltzmann distribution.
+![[Pasted image 20230130134300.png|500]]
+
+This probability distribution is the reason for the exponential characteristics of [[diodes]] and [[transistors]]. 
+
+
