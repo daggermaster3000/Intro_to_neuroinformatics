@@ -38,9 +38,19 @@ At $T=0$ , well... $D=0$ and there are no internal diffusion currents.
 
 ### Thermal equilibrium
 
-In thermal equilibrium, diffusion and drift currents are balanced ($J_{n}=J_{p}=0$)($J_{n}=J_{n,drift}+J_{ndrift}$ and so on for hole doped).
+In thermal equilibrium (no external voltage applied), diffusion and drift currents are balanced ($J_{n}=J_{p}=0$)($J_{n}=J_{n,drift}+J_{ndrift}$ and so on for hole doped).
 
 
 ## P-N Junction
-What happens at a junction between P and N?
+What happens at a junction between P and N (physical contact)?
+
+- The diffusion processes give rise to:
+	- A net **electron** flow from the **n-type** region to the **p-type** region.
+	- A net **hole** flow from **p-type** region to **n-type** region.
+- This results in a diffusion current desity $J_{diff}=J_{n,diff}+J_{p,diff}$ from the **p-type** to the **n-type** 
+- The diffusing minority carriers recombine with majority carriers in the vicinity of the junction $\rightarrow$ this region is devoid of mobile charge carriers. ($np\ll n_{i}^2$) The **Depletion region**. 
+- On the **n-type** side of the junction, the donor electrons are absent and the donor atoms have a surplus proton. (+) charged side
+-  On the **p-type** side of the junction, the acceptor holes are filled by the donor atom's electrons and the acceptor atoms have a surplus electron. (-) charged side
+- An electric field builds up in the **depletion region** that points from **n** to **p**.
+- The electric field
 ![[Pasted image 20230130154919.png|500]]
