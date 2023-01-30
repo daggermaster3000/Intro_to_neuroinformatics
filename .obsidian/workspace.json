@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Early effect.md",
+                "file": "Neuromorphic engineering/Neuromorphic engineering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2795a63ce36ea41e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semiconductors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29c42a3198abe0d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "metals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Early effect.md",
+                "file": "Semiconductors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Early effect.md",
+                "file": "Semiconductors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Early effect.md"
+                "file": "Semiconductors.md"
               }
             }
           }
@@ -148,17 +173,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "89d4fc71cacc2143",
+  "active": "2795a63ce36ea41e",
   "lastOpenFiles": [
-    "Neuromorphic engineering/Current source.md",
-    "Neuromorphic engineering/Neuromorphic Circuits.md",
-    "Early effect.md",
+    "metals.md",
+    "Semiconductors.md",
+    "insulators.md",
+    "impurity doping.md",
+    "Neuromorphic engineering/Neuromorphic engineering.md",
+    "images/Pasted image 20230130092520.png",
     "Neuromorphic engineering/Spike generating mechanism.md",
-    "Neuromorphic engineering/Transconductance amplifier.md",
-    "Neuromorphic engineering/Generalized integrate and fire.md",
-    "Neuromorphic engineering/Current mode DPI.md",
-    "Neuromorphic engineering/Conclusions.md",
-    "Neuromorphic engineering/AER.md",
-    "Excalidraw/Action potential 2023-01-20 13.41.57.excalidraw.md"
+    "Neuromorphic engineering/Neuromorphic Circuits.md",
+    "Neuromorphic engineering/Current source.md",
+    "Early effect.md"
   ]
 }

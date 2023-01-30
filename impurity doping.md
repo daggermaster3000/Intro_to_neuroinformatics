@@ -1,0 +1,1 @@
+The process of varying the electrical boundary conditions by introducing atoms of foreign elements into the crystal structure.
