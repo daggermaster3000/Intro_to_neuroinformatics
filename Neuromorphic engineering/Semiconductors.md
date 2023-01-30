@@ -4,6 +4,9 @@ The classification of these materials also relies in the arrangement and propret
 
 Electrical currents in solids are carried by the motion of valence electrons, which are attracted from the fixed positive ion cores. An electron is either fixed to this core or mobile and contributes to the current flow (but only if it has enough energy to break free from the core (**ionization energy**)).
 
+An intrinsic semiconductor is undoped
+An extrinsic semiconductor is doped
+
 ## Energy bands
 
 The electrons that are in solids can have different energy levels (free ones can be in any energy state), that are separated by forbidden zones **band gaps** (due to interaction with ion core).  The allowed levels are called **energy bands**. 
@@ -71,10 +74,11 @@ for silicon:
 - The concentration of $Si$ atoms in a crystal is $5 \times 10^{22}cm^{-3}$
 - Which means only one out of $3\times10^{12}$ atoms is ionized at room temperature therefore conductivity is very low.
 
-
+**Energy band diagram, density of states, fermi dirac and carrier concentrations for intrinsic semiconductors at thermal equilibrium**
+![[Pasted image 20230130142458.png|600]]
+Note $n_{i}=n=p$
 
 ## Impurity doping
-
 
 We can significantly increase the conductivity of a semiconductor by [[impurity doping]] it.
 
