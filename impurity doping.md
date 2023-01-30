@@ -22,8 +22,19 @@ Notes:
 - Most donors and acceptors are thermally ionized ar room temperature.
 - The ionization energy of an impurity atom is on the order of $0.05 eV$.
 
+![[Pasted image 20230130151921.png|400]]
+
 ## Band diagrams
 
 ![[Pasted image 20230130144227.png|600]]
 
+$N_{A}$ denotes the acceptor impurity concentration and $N_{D}$ denotes the donor impurity concentration. We have:
+
+$n+N_{A}=p+N_{D}$
+
+For n-type:
+![[Pasted image 20230130151725.png|600]]
+
+For p-type:
+![[Pasted image 20230130151751.png|600]]
 

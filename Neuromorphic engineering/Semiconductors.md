@@ -1,3 +1,4 @@
+![[Pasted image 20230130152005.png|200]]
 Crystals and other solids are classified by their electrical conductivity into [[insulators]],[[Semiconductors]],or [[metals]] (order of increasing conductivity). Electrical processing structures are fabricated from semiconductors because they operate at an intermediate conductivity level that can be modulated by [[impurity doping]]. 
 
 The classification of these materials also relies in the arrangement and propreties of the atoms. 
