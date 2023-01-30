@@ -25,5 +25,15 @@ Unoccupied states in valence bands are referred to as holes. **Valence bands** c
 
 ### Representation (Energy band diagrams)
 
-Energy band diagrams are drawn such as the electron energy increases upwards in $eV$. This unit is practical because by dividing by $-q = -1.60218 \times 10^{-19}C$ (electron charge) we can obtain 
+Energy band diagrams are drawn such as the electron energy increases upwards in $eV$ ([[electron volt]]). This unit is practical because by dividing by $-q = -1.60218 \times 10^{-19}C$ (electron charge) we can obtain an electrostatic distribution. 
+
+- Only the valence band and conduction band are drawn with the smallest energy separation. 
+- The lines are the **band edges**, the highest valence band energy states and the lowest conduction band energy states. They tell us the minimum ampunt of energy an electron must acquire to bridge the gap (for a given change in momentum). 
+- $E_{g}$ is the bandgap energy (differenc between lowest conduction and highest valence band). For $Si, E_{g}=1.12eV$
+- If the max-min occurs at the same wave vector, we speak of **direct bandgamp** ($GaAs$), if not we speak of **indirect bandgamp** ($Si$). 
 ![[Pasted image 20230130112627.png|600]]
+
+
+## Carrier concentrations
+
+
