@@ -50,4 +50,5 @@ $F(E)=(1+e^{(E-E_{F})/kT})^{-1}$
 Where,
 
 - $E_{F}$ is the enrgy at which the occupation probability is $0.5$ (**Fermi level**)
-- $k = 1.38 \times 10^{-23}J/K$ **Boltzmann constant**
+- $k = 1.38 \times 10^{-23}J/K$ (**Boltzmann constant**)
+- 
