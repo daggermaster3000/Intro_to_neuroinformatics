@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "86f6414a7d87b5f5",
+        "id": "030a68d7a4a050ea",
         "type": "tabs",
         "children": [
           {
-            "id": "c98d0be1051fb22a",
+            "id": "89d4fc71cacc2143",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Ionic flux.md",
+                "file": "Early effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "a24254a9a28d9887",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Ionic flux.md",
+                "file": "Early effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Ionic flux.md",
+                "file": "Early effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Ionic flux.md"
+                "file": "Early effect.md"
               }
             }
           }
@@ -147,17 +148,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "c98d0be1051fb22a",
+  "active": "89d4fc71cacc2143",
   "lastOpenFiles": [
-    "Physics/Passive membrane.md",
-    "TOC.md",
-    "Learning and networks/Learning and networks.md",
-    "action potentials.md",
-    "Learning and networks/Boltzmann machines.md",
-    "Untitled.md",
-    "images/Pasted image 20230126114224.png",
-    "Learning and networks/Interacting neural populations.md",
-    "Learning and networks/Feed forward networks.md",
-    "Learning and networks/Hopfield networks.md"
+    "Neuromorphic engineering/Current source.md",
+    "Neuromorphic engineering/Neuromorphic Circuits.md",
+    "Neuromorphic engineering/Spike generating mechanism.md",
+    "Neuromorphic engineering/Transconductance amplifier.md",
+    "Neuromorphic engineering/Generalized integrate and fire.md",
+    "Neuromorphic engineering/Current mode DPI.md",
+    "Neuromorphic engineering/Conclusions.md",
+    "Neuromorphic engineering/AER.md",
+    "Excalidraw/Action potential 2023-01-20 13.41.57.excalidraw.md",
+    "Excalidraw/Action potential 2023-01-20 10.47.41.excalidraw.md"
   ]
 }

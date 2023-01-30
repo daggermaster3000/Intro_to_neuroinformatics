@@ -1,5 +1,5 @@
 ![[Pasted image 20230125103735.png]]
-A single FET can be used as a current source when $V_{s}$ and $V_{g}$ are held at constant values and as long as the difference between them is $>4 U_{T}$ or ($|Vd−Vs| ≥ 100mV$).
+A single FET can be used as a current source when $V_{s}$ and $V_{g}$ are held at constant values and as long as the difference between them is $>4 U_{T}$ or ($|Vd−Vs| ≥ 100mV$). (in saturation region)
 
 $I_{ds} = I_{0}e^{\frac{(\kappa V_{g}-V_{s})}{U_{T}}}$
 
