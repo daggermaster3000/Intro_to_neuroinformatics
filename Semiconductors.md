@@ -61,4 +61,20 @@ The states above the Fermi level are occupied with the Boltzmann distribution an
 
 This probability distribution is the reason for the exponential characteristics of [[diodes]] and [[transistors]]. 
 
+In **Thermal equilibrium** (no external voltage applied and no net current flow), the total electron density in the conduction band is:
+
+![[Pasted image 20230130135408.png]]
+
+for silicon:
+- The effective density of states is $N_{C}=2.80 \times 10^{19}cm^{-3}$
+- The intrinsic carrier density is $n_{i}=1.45 \times 10^{22}cm^{-3}$ at room temperature
+- The concentration of $Si$ atoms in a crystal is $5 \times 10^{22}cm^{-3}$
+- Which means only one out of $3\times10^{12}$ atoms is ionized at room temperature therefore conductivity is very low.
+
+
+
+## Impurity doping
+
+
+We can significantly increase the conductivity of a semiconductor by [[impurit]] it with impurities.
 

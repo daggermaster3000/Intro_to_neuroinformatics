@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0edad016c530f78c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "impurity doping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "29c42a3198abe0d7",
             "type": "leaf",
             "state": {
@@ -162,15 +174,15 @@
   },
   "active": "89d4fc71cacc2143",
   "lastOpenFiles": [
-    "phonon.md",
+    "impurity.md",
     "Semiconductors.md",
+    "[[impurity.md",
+    "impurity doping.md",
+    "phonon.md",
     "electron volt.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
     "metals.md",
     "Excalidraw/Semiconductors 2023-01-30 11.11.25.excalidraw.md",
-    "insulators.md",
-    "impurity doping.md",
-    "images/Pasted image 20230130092520.png",
-    "Neuromorphic engineering/Spike generating mechanism.md"
+    "insulators.md"
   ]
 }
