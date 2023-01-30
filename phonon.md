@@ -1,0 +1,1 @@
+Quantum description of an elemental vibrational motion in which a lattice of atoms uniformly oscillates at a single frequency.
