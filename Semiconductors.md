@@ -12,3 +12,18 @@ Each state can support a limited number of states each of which can be occupied 
 
 ![[Semiconductors 2023-01-30 11.11.25.excalidraw.svg]]
 %%[[Semiconductors 2023-01-30 11.11.25.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Semiconductors 2023-01-30 11.11.25.excalidraw.dark.svg|dark exported image]]%%
+
+
+The energy bands are classified into **valence bands** and **conduction bands** according to whether they are almost filled or almost empty.
+
+**note:** bands depend on the crystal structure
+
+In **conduction bands** electrons are free to move, but in **valence bands** they are bound to the atom body and can only move from one unoccupied state to another if they cannot acquire enough energy to jump the bandgap to the **conduction band**. 
+
+**Holes**
+Unoccupied states in valence bands are referred to as holes. **Valence bands** can be considered as conduction bands for holes. They are attributed a positive charge and mass and mobility.
+
+### Representation (Energy band diagrams)
+
+Energy band diagrams are drawn such as the electron energy increases upwards in $eV$. This unit is practical because by dividing by $-q = -1.60218 \times 10^{-19}C$ (electron charge) we can obtain 
+![[Pasted image 20230130112627.png|600]]
