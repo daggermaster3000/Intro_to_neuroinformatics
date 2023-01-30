@@ -1,4 +1,4 @@
-Crystals and other solids are classified by their electrical conductivity into [[insulators]],[[semiconductors]],or [[metals]] (order of increasing conductivity). Electrical processing structures are fabricated from semiconductors because they operate at an intermediate conductivity level that can be modulated by [[impurity doping]]. 
+Crystals and other solids are classified by their electrical conductivity into [[insulators]],[[Semiconductors]],or [[metals]] (order of increasing conductivity). Electrical processing structures are fabricated from semiconductors because they operate at an intermediate conductivity level that can be modulated by [[impurity doping]]. 
 
 The classification of these materials also relies in the arrangement and propreties of the atoms. 
 
@@ -76,5 +76,5 @@ for silicon:
 ## Impurity doping
 
 
-We can significantly increase the conductivity of a semiconductor by [[impurit]] it with impurities.
+We can significantly increase the conductivity of a semiconductor by [[impurity doping]] it.
 

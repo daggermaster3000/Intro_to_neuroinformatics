@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semiconductors.md",
+                "file": "Neuromorphic engineering/Semiconductors.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metals.md",
+                "file": "Physics/metals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semiconductors.md",
+                "file": "impurity doping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semiconductors.md",
+                "file": "impurity doping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semiconductors.md"
+                "file": "impurity doping.md"
               }
             }
           }
@@ -172,17 +173,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "89d4fc71cacc2143",
+  "active": "0edad016c530f78c",
   "lastOpenFiles": [
+    "Neuromorphic engineering/Semiconductors.md",
+    "images/Pasted Image 20230130111205_428.png",
     "impurity.md",
-    "Semiconductors.md",
     "[[impurity.md",
     "impurity doping.md",
-    "phonon.md",
-    "electron volt.md",
+    "Physics/phonon.md",
+    "Physics/electron volt.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
-    "metals.md",
-    "Excalidraw/Semiconductors 2023-01-30 11.11.25.excalidraw.md",
-    "insulators.md"
+    "Physics/metals.md",
+    "Excalidraw/Semiconductors 2023-01-30 11.11.25.excalidraw.md"
   ]
 }
