@@ -33,6 +33,8 @@ Energy band diagrams are drawn such as the electron energy increases upwards in 
 - If the max-min occurs at the same wave vector, we speak of **direct bandgamp** ($GaAs$), if not we speak of **indirect bandgamp** ($Si$). 
 ![[Pasted image 20230130112627.png|600]]
 
+**Simplified graph**
+![[Pasted image 20230130120210.png|400]]
 
 ## Carrier concentrations
 Thermal energy translates in vibrations of the crystal lattice. Transfer of energy from the lattice to the electrons is through absorption/emission of a [[phonon]]. 
@@ -46,5 +48,6 @@ Some electrons leave the low E state for the high E states. The probability of o
 $F(E)=(1+e^{(E-E_{F})/kT})^{-1}$
 
 Where,
+
 - $E_{F}$ is the enrgy at which the occupation probability is $0.5$ (**Fermi level**)
 - $k = 1.38 \times 10^{-23}J/K$ **Boltzmann constant**
