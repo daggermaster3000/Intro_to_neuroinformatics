@@ -68,7 +68,7 @@ In **Thermal equilibrium** (no external voltage applied and no net current flow)
 
 ![[Pasted image 20230130135408.png]]
 
-for silicon:
+For silicon:
 - The effective density of states is $N_{C}=2.80 \times 10^{19}cm^{-3}$
 - The intrinsic carrier density is $n_{i}=1.45 \times 10^{22}cm^{-3}$ at room temperature
 - The concentration of $Si$ atoms in a crystal is $5 \times 10^{22}cm^{-3}$

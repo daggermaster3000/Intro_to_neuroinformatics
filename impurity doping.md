@@ -8,13 +8,22 @@ Introduction of donors moves the fermi level from the center of the band gap to 
 
 **ATOMS:**
 - $P$
-- $A$
+- $As$
 
 **Acceptor impurity:** It is an atom with a valence electron less than the semiconductor. Acceptors have loosely bound holes close to the valence band edge.
 ![[Pasted image 20230130141817.png|300]]
 Introduction of acceptors moves the fermi level from the center of the band gap to the **valence band** edge. If the donor density is smaller than the acceptor density there will be less electrons in the conduction band than holes in the valence band ($n<p$), the semi-conductor is said to be **p-type**. (The majority of carriers are holes)
 
+**ATOMS:**
+- $B$
 
-Note: The impurity atoms are always electrically neutral (protons=electrons).
+Notes: 
+- The impurity atoms are always electrically neutral (protons=electrons).
+- Most donors and acceptors are thermally ionized ar room temperature.
+- The ionization energy of an impurity atom is on the order of $0.05 eV$.
 
 ## Band diagrams
+
+![[Pasted image 20230130144227.png|600]]
+
+
