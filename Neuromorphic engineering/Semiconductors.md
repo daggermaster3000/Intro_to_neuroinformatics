@@ -68,6 +68,8 @@ This probability distribution is the reason for the exponential characteristics 
 In **Thermal equilibrium** (no external voltage applied and no net current flow), the total electron density in the conduction band is:
 
 ![[Pasted image 20230130135408.png]]
+The **law of mass action**: $np=n_{i}^2$ :In equilibrium, more holes means less electrons.
+
 
 For silicon:
 - The effective density of states is $N_{C}=2.80 \times 10^{19}cm^{-3}$
@@ -83,3 +85,7 @@ Note $n_{i}=n=p$
 
 We can significantly increase the conductivity of a semiconductor by [[impurity doping]] it.
 
+
+
+- [[MOS transistors]]
+- 
