@@ -66,3 +66,12 @@ What happens at a junction between P and N (physical contact)?
 
 ### I-V Characteristics
 ![[Pasted image 20230130161935.png|400]]
+How do we generate a net current flow through the diode? 
+- We change the boundary conditions for the n and p type regions through external application of potential differences. 
+- If a positive voltage is applied to **p**, relatively to **n** the potential difference is called a **forward biais**
+- If the voltage on **n** is higher than **p**, it is a **reverse biais**. 
+- Current flowing from **p** to **n** is a **forward current**
+- Current flowing from **n** to **p** is a **reverse current**
+- The electron current in the **n** region is transformed to a hole current in the **p** region. 
+- The applied voltage changes the built in voltage and modifies the **width** of the depletion region and the minority carriers outside the depletion region.
+![[Pasted image 20230130163259.png|600]]
