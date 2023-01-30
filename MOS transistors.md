@@ -44,6 +44,8 @@ In thermal equilibrium (no external voltage applied), diffusion and drift curren
 ## P-N Junction
 What happens at a junction between P and N (physical contact)?
 
+![[Pasted image 20230130154919.png|500]]
+
 - The diffusion processes give rise to:
 	- A net **electron** flow from the **n-type** region to the **p-type** region.
 	- A net **hole** flow from **p-type** region to **n-type** region.
@@ -52,5 +54,15 @@ What happens at a junction between P and N (physical contact)?
 - On the **n-type** side of the junction, the donor electrons are absent and the donor atoms have a surplus proton. (+) charged side
 -  On the **p-type** side of the junction, the acceptor holes are filled by the donor atom's electrons and the acceptor atoms have a surplus electron. (-) charged side
 - An electric field builds up in the **depletion region** that points from **n** to **p**.
-- The electric field
-![[Pasted image 20230130154919.png|500]]
+- The electric field generates electron and hole drift currents from **n** to **p**.  
+
+![[Pasted image 20230130161600.png]]
+
+**Electrostatic Potential: potential energy of positive charge** (electron is the mirror image)
+
+### Band structure
+![[Pasted image 20230130161824.png|500]]
+![[Pasted image 20230130161852.png|500]]
+
+### I-V Characteristics
+![[Pasted image 20230130161935.png|400]]
