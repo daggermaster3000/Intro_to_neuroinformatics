@@ -75,3 +75,5 @@ How do we generate a net current flow through the diode?
 - The electron current in the **n** region is transformed to a hole current in the **p** region. 
 - The applied voltage changes the built in voltage and modifies the **width** of the depletion region and the minority carriers outside the depletion region.
 ![[Pasted image 20230130163259.png|600]]
+
+## [[Operating regimes]]
