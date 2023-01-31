@@ -32,7 +32,11 @@ We have different regions of operation depending on $Vds$.
 
 ### Triode/linear
 ![[Pasted image 20230131112047.png|500]]
-The current depends on $Vds$. This region describes the operation of the transistor for small $Vds$. 
+The current depends on $Vds$. This region describes the operation of the transistor for small $Vds$.($\leq 4U_{T}$) 
+
+-  $I = I_{0}e^{(\kappa V_{g}-V_{s})/U_{T}}(1-e^{-V_{ds}/U_{T}})$
+
+Taking Taylor's expansion series, we can show that $I$ is approximately linear with $V_{ds}$ for $V_{ds}\leq U_{T}$.
 
 ### Saturation
-The current is independant of $Vds$.
+The current is independant of $Vds$. As $Vds$ increases beyond $4U_{T}$. 
