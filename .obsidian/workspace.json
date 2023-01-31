@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "434dcac9a415c762",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c885bf0ab7c04dd2",
             "type": "leaf",
             "state": {
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating regimes.md",
+                "file": "Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating regimes.md",
+                "file": "Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating regimes.md"
+                "file": "Structure.md"
               }
             }
           }
@@ -173,9 +185,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "c885bf0ab7c04dd2",
+  "active": "434dcac9a415c762",
   "lastOpenFiles": [
     "MOS transistors.md",
+    "Operating regimes.md",
     "Untitled.md",
     "thermal voltage.md",
     "impurity doping.md",
@@ -183,7 +196,6 @@
     "Neuromorphic engineering/Neuromorphic engineering.md",
     "Neuromorphic engineering/insulators.md",
     "images/Pasted Image 20230130111205_428.png",
-    "impurity.md",
-    "[[impurity.md"
+    "impurity.md"
   ]
 }
