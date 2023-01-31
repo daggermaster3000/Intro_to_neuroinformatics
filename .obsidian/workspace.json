@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOS transistors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4843e2f93bb4df87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biaising.md",
+                "file": "Operating regimes.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biaising.md",
+                "file": "Operating regimes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biaising.md",
+                "file": "Operating regimes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biaising.md"
+                "file": "Operating regimes.md"
               }
             }
           }
@@ -185,9 +173,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "4843e2f93bb4df87",
+  "active": "39073d5eda0d7c13",
   "lastOpenFiles": [
     "MOS transistors.md",
+    "Biaising.md",
     "Structure.md",
     "Operating regimes.md",
     "Untitled.md",
@@ -195,7 +184,6 @@
     "impurity doping.md",
     "Neuromorphic engineering/Semiconductors.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
-    "Neuromorphic engineering/insulators.md",
-    "images/Pasted Image 20230130111205_428.png"
+    "Neuromorphic engineering/insulators.md"
   ]
 }
