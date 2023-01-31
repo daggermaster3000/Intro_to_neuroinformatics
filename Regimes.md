@@ -31,7 +31,7 @@ The forward component depends only on $Vgs$, while the reverse depends only on $
 We have different regions of operation depending on $Vds$.
 
 ### Triode/linear
-![[Pasted image 20230131112047.png]]
+![[Pasted image 20230131112047.png|500]]
 The current depends on $Vds$. This region describes the operation of the transistor for small $Vds$. 
 
 ### Saturation
