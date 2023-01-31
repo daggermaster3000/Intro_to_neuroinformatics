@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "434dcac9a415c762",
+            "id": "4843e2f93bb4df87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structure.md",
+                "file": "Biaising.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure.md",
+                "file": "Biaising.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure.md",
+                "file": "Biaising.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structure.md"
+                "file": "Biaising.md"
               }
             }
           }
@@ -185,9 +185,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "434dcac9a415c762",
+  "active": "4843e2f93bb4df87",
   "lastOpenFiles": [
     "MOS transistors.md",
+    "Structure.md",
     "Operating regimes.md",
     "Untitled.md",
     "thermal voltage.md",
@@ -195,7 +196,6 @@
     "Neuromorphic engineering/Semiconductors.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
     "Neuromorphic engineering/insulators.md",
-    "images/Pasted Image 20230130111205_428.png",
-    "impurity.md"
+    "images/Pasted Image 20230130111205_428.png"
   ]
 }

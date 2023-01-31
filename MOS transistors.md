@@ -77,4 +77,7 @@ How do we generate a net current flow through the diode?
 ![[Pasted image 20230130163259.png|600]]
 
 ## [[Structure]]
+## [[Biaising]]
 ## [[Operating regimes]]
+
+
