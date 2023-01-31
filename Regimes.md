@@ -39,4 +39,4 @@ The current depends on $Vds$. This region describes the operation of the transis
 Taking Taylor's expansion series, we can show that $I$ is approximately linear with $V_{ds}$ for $V_{ds}\leq U_{T}$.
 
 ### Saturation
-The current is independant of $Vds$. As $Vds$ increases beyond $4U_{T}$. 
+The current is independant of $Vds$. As $Vds$ increases beyond $4U_{T}$, the concentration of electrons 
