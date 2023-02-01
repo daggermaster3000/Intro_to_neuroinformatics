@@ -92,7 +92,6 @@ The equations change a bit, but luckily we dont work much in this regime
 - [[WTA]]
 - [[Photoreceptor]]
 - [[Axon hillock]]
-- [[]]
 - [[Transconductance amplifier]]
 - [[Spike generating mechanism]]
 - [[Conductance based neuron]]
@@ -100,4 +99,3 @@ The equations change a bit, but luckily we dont work much in this regime
 - [[Integrate and fire neuron]]
 - [[Current mode DPI]]
 - [[Synapse analog circuit]]
-- 

@@ -3,7 +3,7 @@
 **Input:** $\Delta V =V_{1}-V_{2}$
 **Output:** $I1$ and $I_{2}$ (if saturation)
 **Settings:** $V_{b}$ for $I_{b}$
-**Notes:** For it to work $M_{b}$ must be in [[saturation]]
+**Notes:** For it to work $M_{b}$ must be in [[Regimes#Saturation]]
 
 
 This circuit is similar to the source followe, only the biais current is shared between $M_{1}$ and $M_{2}$. If all MOSFETs are operated below threshold and in saturation and we assume that and have the same subthreshold slope factor $\kappa$.
@@ -16,7 +16,7 @@ The dependance of $I_{1}$ and $I_{2}$ can be seen in the next graph, where the c
 ![[Pasted image 20230125114048.png|200]]
 
 ![[Pasted image 20230125114212.png|300]]
-
+![[Pasted image 20230201105423.png|400]]
 written in canonical sigmoid form:
 
 ![[Pasted image 20230125114144.png|400]]
