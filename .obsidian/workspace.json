@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regimes.md",
+                "file": "Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regimes.md",
+                "file": "Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regimes.md",
+                "file": "Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regimes.md"
+                "file": "Structure.md"
               }
             }
           }
@@ -164,9 +164,9 @@
   "active": "39073d5eda0d7c13",
   "lastOpenFiles": [
     "MOS transistors.md",
+    "Regimes.md",
     "Biaising.md",
     "Structure.md",
-    "Regimes.md",
     "Untitled.md",
     "thermal voltage.md",
     "impurity doping.md",
