@@ -1,8 +1,8 @@
 We first consider current as a function of gate to sourcwe voltage $V_{gs}$.
 
 
-# Subthreshold Region
-Small voltage are reduced so low power consumption. 
+# Subthreshold Regime
+Small voltage are reduced so low power consumption. Current flows primarily by **diffusion**.
 
 Increasing the gate voltage **increases the positive charge on the gate.** This charge **repels the holes in the substrate** and leaves behind negative ions that balance out the gate charge. The MOSFET operates in the **sub-threshold regime** when the **positive charge on the gate is almost balanced by the negatively-charged depletion region underneath the gate**. There is also a very thin layer of electrons beneath the gate (the inversion
 layer) but it is negligible in this regime. 
@@ -38,5 +38,29 @@ The current depends on $Vds$. This region describes the operation of the transis
 
 Taking Taylor's expansion series, we can show that $I$ is approximately linear with $V_{ds}$ for $V_{ds}\leq U_{T}$.
 
+note on kappa: 
+- $\kappa$ is the capacitive coupling ratio:
+![[Pasted image 20230201095103.png]]
+- It is also the slop of the log linear plot of $I$ vs $Vg$ in subthreshold (**subthreshold slope factor**).
+- It varies slowly with $V_{g}$ but is assumed as constant
+- Ranges from $0.5$ to $0.9$
+
+
+
+
+
 ### Saturation
-The current is independant of $Vds$. As $Vds$ increases beyond $4U_{T}$, the concentration of electrons 
+The current is independant of $Vds$. 
+As $Vds$ increases beyond $4U_{T}=100mV$, the concentration of electrons at the drain can be neglected compared to the source because of the large barrier height.
+![[Pasted image 20230201094945.png|500]]
+
+Any electrons in the channel that diffuse close to the drain are immediately swept into the drain by the electric field. The diffusion current no longer depends on the electron concentration at the drain, the current in the transistor only depends on $V_{s}$ and is equal to $I_{f}$. The relationship is described by:
+
+$I=I_{f}=I_{0}e^{(\kappa V_{g}-V_{s})/U_{T}}$
+
+The current is approximately constant. 
+
+
+
+
+# Above threshold region
