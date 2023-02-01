@@ -22,6 +22,9 @@ Must be in saturation ^yoN8wacb
 
 Saturated drains ^6oyygZcF
 
+Two source 
+followers ^T890QoSK
+
 
 # Embedded files
 cee5722a4e347a16990ebce5ce29381ce8cb07e4: [[Pasted Image 20230125110437_233.png]]
@@ -77,8 +80,8 @@ cee5722a4e347a16990ebce5ce29381ce8cb07e4: [[Pasted Image 20230125110437_233.png]
 		},
 		{
 			"type": "arrow",
-			"version": 104,
-			"versionNonce": 862065332,
+			"version": 105,
+			"versionNonce": 434796428,
 			"isDeleted": false,
 			"id": "eCY72DTqMmteM8hSig4q-",
 			"fillStyle": "hachure",
@@ -99,10 +102,14 @@ cee5722a4e347a16990ebce5ce29381ce8cb07e4: [[Pasted Image 20230125110437_233.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1674645098008,
+			"updated": 1675246534689,
 			"link": null,
 			"locked": false,
-			"startBinding": null,
+			"startBinding": {
+				"elementId": "wit3BQgln2vW_yDn2S13E",
+				"focus": 1.3302412709306746,
+				"gap": 27.231190999348883
+			},
 			"endBinding": {
 				"elementId": "7LJHWnlQY71rgSwxTlSdH",
 				"focus": 0.39541304611933814,
@@ -562,27 +569,159 @@ cee5722a4e347a16990ebce5ce29381ce8cb07e4: [[Pasted Image 20230125110437_233.png]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Saturated drains"
+		},
+		{
+			"type": "rectangle",
+			"version": 80,
+			"versionNonce": 152512180,
+			"isDeleted": false,
+			"id": "wit3BQgln2vW_yDn2S13E",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 30,
+			"angle": 0,
+			"x": -198.33312510361486,
+			"y": -202.9430236816405,
+			"strokeColor": "#000000",
+			"backgroundColor": "#be4bdb",
+			"width": 392.00002034505206,
+			"height": 155.55558268229163,
+			"seed": 1853787916,
+			"groupIds": [],
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [
+				{
+					"id": "eCY72DTqMmteM8hSig4q-",
+					"type": "arrow"
+				},
+				{
+					"id": "8_SW0q40aGf4-PktQCVSt",
+					"type": "arrow"
+				}
+			],
+			"updated": 1675246567109,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "arrow",
+			"version": 58,
+			"versionNonce": 956823692,
+			"isDeleted": false,
+			"id": "8_SW0q40aGf4-PktQCVSt",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 30,
+			"angle": 0,
+			"x": -200.11085540960448,
+			"y": -139.83193969726557,
+			"strokeColor": "#000000",
+			"backgroundColor": "#be4bdb",
+			"width": 110.22224934895826,
+			"height": 110.22220865885413,
+			"seed": 1879726220,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675246595890,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "wit3BQgln2vW_yDn2S13E",
+				"focus": 0.021749766190837544,
+				"gap": 1.7777303059896212
+			},
+			"endBinding": {
+				"elementId": "T890QoSK",
+				"focus": -0.11498342114148004,
+				"gap": 8.777791341145871
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-96.888916015625,
+					-6.222208658854129
+				],
+				[
+					-110.22224934895826,
+					104
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 61,
+			"versionNonce": 905618996,
+			"isDeleted": false,
+			"id": "T890QoSK",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 30,
+			"angle": 0,
+			"x": -368.1109367898128,
+			"y": -27.054148356119697,
+			"strokeColor": "#000000",
+			"backgroundColor": "#be4bdb",
+			"width": 122,
+			"height": 51,
+			"seed": 283527692,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "8_SW0q40aGf4-PktQCVSt",
+					"type": "arrow"
+				}
+			],
+			"updated": 1675246595891,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Two source \nfollowers",
+			"rawText": "Two source \nfollowers",
+			"baseline": 44,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Two source \nfollowers"
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#000000",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "hachure",
+		"currentItemBackgroundColor": "#be4bdb",
+		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
-		"currentItemOpacity": 100,
+		"currentItemOpacity": 30,
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 336.5553541075211,
-		"scrollY": 705.1096903483071,
+		"scrollX": 411.4397973053999,
+		"scrollY": 746.8061479840958,
 		"zoom": {
-			"value": 0.75
+			"value": 0.7000000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

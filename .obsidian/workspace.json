@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "9665a7d6e1aa9756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuromorphic engineering/Current mirror.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ab5f62658352bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Body effect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2e4747e4f28420b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current correlator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "17dd840df74b9527",
             "type": "leaf",
             "state": {
@@ -30,31 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "024f2ef61b3871ca",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Current correlator 2023-02-01 10.58.39.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "39073d5eda0d7c13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuromorphic engineering/Semiconductors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Current correlator 2023-02-01 10.58.39.excalidraw.md",
+                "file": "Neuromorphic engineering/Differenial pair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Current correlator 2023-02-01 10.58.39.excalidraw.md",
+                "file": "Neuromorphic engineering/Differenial pair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Current correlator 2023-02-01 10.58.39.excalidraw.md"
+                "file": "Neuromorphic engineering/Differenial pair.md"
               }
             }
           }
@@ -183,17 +197,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "024f2ef61b3871ca",
+  "active": "17dd840df74b9527",
   "lastOpenFiles": [
-    "Current correlator.md",
-    "Excalidraw/Current correlator 2023-02-01 10.58.39.excalidraw.md",
-    "Neuromorphic engineering/Semiconductors.md",
+    "Excalidraw/Differenial pair 2023-01-25 11.03.54.excalidraw.md",
     "Neuromorphic engineering/Differenial pair.md",
+    "Neuromorphic engineering/Current mirror.md",
+    "Current correlator.md",
     "Neuromorphic engineering/Neuromorphic Circuits.md",
-    "Neuromorphic engineering/Current source.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
-    "MOS transistors.md",
     "Body effect.md",
-    "Regimes.md"
+    "MOS transistors.md",
+    "Neuromorphic engineering/Semiconductors.md",
+    "Excalidraw/Current correlator 2023-02-01 10.58.39.excalidraw.md"
   ]
 }

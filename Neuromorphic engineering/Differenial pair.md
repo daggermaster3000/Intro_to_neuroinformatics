@@ -40,3 +40,4 @@ $max(V_{1},V_{2})>\kappa^{-1}(4U_{T}+\kappa V_{b})$
 Compressive non-linearities are very useful for implementation of different functions (ex: [[neural networks]]). The output currents depend only on the difference of the input voltages: The circuit has a small [[common-mode]] sensitivity. Given that voltages are [[differential-mode]] rather than absolute quantities such a property is very useful.
 
 This circuit is also combined with the [[Current mirror]] (to implement an $I_{1}-I_{2}$ output ) to get the [[Transconductance amplifier]].
+

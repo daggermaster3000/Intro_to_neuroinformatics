@@ -1,4 +1,11 @@
+**Input:** $I_{in}$ and $I_{out}$
+**Output:** $I_{in}$ , possible with gain
+**Settings:** 
+**Notes:** For it to work all must be in [[Regimes#Subthreshold Regime]]
+
 ![[Pasted image 20230125104100.png]]
+
+![[Pasted image 20230201111253.png|400]]
 This circuit consists of a diode connected MOSFET that has a common gate node with another MOSFET of the same type. If both MOSFETS have fixed source voltages and are in [[saturation]], they act as current sources.
 
 >They will source the same current if they are the same size and $V_{s_{1}=V_{S_{2}}}$
