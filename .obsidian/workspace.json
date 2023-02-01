@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source follower.md",
+                "file": "Neuromorphic engineering/Neuromorphic Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Source follower.md",
+                "file": "Neuromorphic engineering/Neuromorphic Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Source follower.md"
+                "file": "Neuromorphic engineering/Neuromorphic Circuits.md"
               }
             }
           }
@@ -209,8 +208,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "ad3ec07c2f426bb7",
+  "active": "89d4fc71cacc2143",
   "lastOpenFiles": [
+    "Source follower.md",
     "Neuromorphic engineering/Neuromorphic Circuits.md",
     "Neuromorphic engineering/Current mirror.md",
     "Neuromorphic engineering/Differenial pair.md",
@@ -219,7 +219,6 @@
     "Neuromorphic engineering/Neuromorphic engineering.md",
     "Body effect.md",
     "MOS transistors.md",
-    "Neuromorphic engineering/Semiconductors.md",
-    "Excalidraw/Current correlator 2023-02-01 10.58.39.excalidraw.md"
+    "Neuromorphic engineering/Semiconductors.md"
   ]
 }

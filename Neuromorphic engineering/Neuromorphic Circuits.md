@@ -14,15 +14,15 @@ Here we can see that the curve is similar to an IV curve from a channel.
 ![[Pasted image 20230124182638.png|300]]
 Where the bulk, $V_{b}$ is connected to $GND$. The current flows from drain to source (think about electron source) and depends on:
 
-$\begin{align}I_{ds} = I_{0}e^{\kappa V_{g}/U_{T}}(e^{-V_{s}/U_{T}}-e^{-V_{d}/U_{T}})\end{align}$
+$I_{ds} = I_{0}e^{\kappa V_{g}/U_{T}}(e^{-V_{s}/U_{T}}-e^{-V_{d}/U_{T}})$
 
 which is equivalent to:
 
-$\begin{align}I_{ds} = I_{0}e^{\kappa V_{g}/U_{T}-V_{s}/U_{T}}-I_{0}e^{\kappa V_{d}/U_{T}-V_{s}/U_{T}}\\= I_{f}-I_{r}\end{align}$
+$I_{ds} = I_{0}e^{\kappa V_{g}/U_{T}-V_{s}/U_{T}}-I_{0}e^{\kappa V_{d}/U_{T}-V_{s}/U_{T}}= I_{f}-I_{r}$
 
 If $V_{ds} > 4 U_{T}$ the $I_{R}$ term becomes negligible and we operate in the saturation regime and the equation simplifies to
 
-$\begin{align}I_{ds} = I_{0}e^{\kappa V_{g}/U_{T}-V_{s}/U_{T}}\end{align}$
+$I_{ds} = I_{0}e^{\kappa V_{g}/U_{T}-V_{s}/U_{T}}$
 
 **Variables**
 - $I_{0}$ current-scaling parameter. 
