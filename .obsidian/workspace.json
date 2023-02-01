@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current correlator.md",
+                "file": "Bump anti bump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current correlator.md",
+                "file": "Bump anti bump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current correlator.md"
+                "file": "Bump anti bump.md"
               }
             }
           }
@@ -172,10 +173,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "89d4fc71cacc2143",
+  "active": "fa0ead8783490c38",
   "lastOpenFiles": [
-    "Bump anti bump.md",
     "Current correlator.md",
+    "Bump anti bump.md",
     "Neuromorphic engineering/Neuromorphic Circuits.md",
     "Source follower.md",
     "Neuromorphic engineering/Current mirror.md",

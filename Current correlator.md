@@ -10,11 +10,12 @@ The current correlator measures the correlation between unidirectional input cur
 
 Mead recognized that in **subthreshold** operation, the current-correlator circuit in Fig. 6.12 computes a measure of the correlation between its two input currents. 
 
-**The output is written in the canonical sigmoidal form**
+
 
 ![[Pasted image 20230201141739.png]]
 
 $I_{out} = \frac{I_{1}I_{2}}{(I_{1}+I_{2})}$
+(exprimer $e^{Vs}$ pour trouver)
 
 The n-input current correlator computes the parallel combination of the
 input currents. The maximum number of inputs can be large, because the
