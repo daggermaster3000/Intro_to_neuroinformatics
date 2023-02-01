@@ -23,3 +23,5 @@ $g_{m}$ is the [[transconductance]] of the amplifier (it has the dimensions of a
 $g_{d}=-\frac{\delta I_{out}}{\delta V_{out}}=\frac{I_{b}}{V_{E}}$
 
 where $V_{E}$ is the [[early voltage]] of $M_{2}$ and $M_{5}$.
+
+![[Pasted image 20230201182359.png]]
