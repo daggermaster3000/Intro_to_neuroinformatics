@@ -1,0 +1,1 @@
+In the small-signal model, the change in the transistor current due to very small changes in each of the terminal voltages, can be expressed as conductances.
