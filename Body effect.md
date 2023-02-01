@@ -1,1 +1,1 @@
-Influence of the bulk on the transistor.
+Influence of the bulk on the transistor. Lowering the $V_{b}$ increases the depletion charge which increases the threshold voltage. ??
