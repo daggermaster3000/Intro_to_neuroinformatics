@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Structure.md",
+                "file": "MOS transistors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cd5f046f7c0cb71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Body effect.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structure.md",
+                "file": "Body effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structure.md",
+                "file": "Body effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structure.md"
+                "file": "Body effect.md"
               }
             }
           }
@@ -161,12 +173,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "39073d5eda0d7c13",
+  "active": "8cd5f046f7c0cb71",
   "lastOpenFiles": [
     "MOS transistors.md",
     "Regimes.md",
-    "Biaising.md",
     "Structure.md",
+    "Biaising.md",
     "Untitled.md",
     "thermal voltage.md",
     "impurity doping.md",

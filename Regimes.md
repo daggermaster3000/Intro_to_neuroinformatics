@@ -60,7 +60,12 @@ $I=I_{f}=I_{0}e^{(\kappa V_{g}-V_{s})/U_{T}}$
 
 The current is approximately constant. 
 
+**Summary**
+![[Pasted image 20230201102232.png|500]]
 
+![[Pasted image 20230201102249.png|500]]
 
+![[Pasted image 20230201102413.png|400]]
+![[Pasted image 20230201102535.png|400]]
 
 # Above threshold region
