@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuromorphic engineering/Neuromorphic Circuits.md",
+                "file": "Current correlator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa0ead8783490c38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bump anti bump.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,54 +38,6 @@
               "type": "markdown",
               "state": {
                 "file": "Source follower.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9665a7d6e1aa9756",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuromorphic engineering/Current mirror.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ab5f62658352bed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Body effect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2e4747e4f28420b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current correlator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17dd840df74b9527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuromorphic engineering/Differenial pair.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuromorphic engineering/Neuromorphic Circuits.md",
+                "file": "Current correlator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuromorphic engineering/Neuromorphic Circuits.md",
+                "file": "Current correlator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuromorphic engineering/Neuromorphic Circuits.md"
+                "file": "Current correlator.md"
               }
             }
           }
@@ -210,15 +174,15 @@
   },
   "active": "89d4fc71cacc2143",
   "lastOpenFiles": [
-    "Source follower.md",
-    "Neuromorphic engineering/Neuromorphic Circuits.md",
-    "Neuromorphic engineering/Current mirror.md",
-    "Neuromorphic engineering/Differenial pair.md",
+    "Bump anti bump.md",
     "Current correlator.md",
+    "Neuromorphic engineering/Neuromorphic Circuits.md",
+    "Source follower.md",
+    "Neuromorphic engineering/Current mirror.md",
+    "Excalidraw/Current correlator 2023-02-01 10.58.39.excalidraw.md",
+    "Neuromorphic engineering/Differenial pair.md",
     "Excalidraw/Differenial pair 2023-01-25 11.03.54.excalidraw.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
-    "Body effect.md",
-    "MOS transistors.md",
-    "Neuromorphic engineering/Semiconductors.md"
+    "Body effect.md"
   ]
 }

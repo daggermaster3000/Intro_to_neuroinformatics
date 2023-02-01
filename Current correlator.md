@@ -9,8 +9,12 @@ is in ohmic region, $M_{2}$ is in saturation
 
 The current correlator measures the correlation between unidirectional input currents.
 
-Mead recognized that in **subthreshold** operation, the current-correlator circuit in Fig. 6.12 computes a measure of the correlation between its two input currents.
+Mead recognized that in **subthreshold** operation, the current-correlator circuit in Fig. 6.12 computes a measure of the correlation between its two input currents. M1 
 
+$I_{out} = \frac{I_{1}I_{2}}{(I_{1}+I_{2})}$
+
+![[Pasted image 20230201135058.png|400]]
+![[Pasted image 20230201135105.png|300]]
 **Strength ratio:**
 ![[Pasted image 20230201110626.png|300]]
 

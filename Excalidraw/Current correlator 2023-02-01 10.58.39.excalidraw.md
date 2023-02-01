@@ -14,6 +14,8 @@ computation ^FFFHIXdw
 If either gate goes low 
 I shuts off ^fLU7vOXP
 
+V2 = UT ^0ZCjdWK6
+
 
 # Embedded files
 a7d0142fecdbd7dc50fcb8e8b7150c58814efdd2: [[Pasted Image 20230201105909_235.png]]
@@ -323,6 +325,122 @@ a7d0142fecdbd7dc50fcb8e8b7150c58814efdd2: [[Pasted Image 20230201105909_235.png]
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "If either gate goes low \nI shuts off"
+		},
+		{
+			"id": "z3cQNRbyB8FHfHCqU2F4q",
+			"type": "arrow",
+			"x": -27.51850721571185,
+			"y": -122.54401821560333,
+			"width": 220.74072943793408,
+			"height": 40.74072943793402,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#be4bdb",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1638907828,
+			"version": 38,
+			"versionNonce": 586351668,
+			"isDeleted": false,
+			"boundElements": [],
+			"updated": 1675255752716,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					220.74072943793408,
+					-40.74072943793402
+				]
+			],
+			"lastCommittedPoint": [
+				220.74072943793408,
+				-40.74072943793402
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "0ZCjdWK6",
+			"type": "text",
+			"x": 215.4444444444444,
+			"y": -175.46995544433594,
+			"width": 71,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#be4bdb",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 259950388,
+			"version": 9,
+			"versionNonce": 7818548,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1675255757125,
+			"link": null,
+			"locked": false,
+			"text": "V2 = UT",
+			"rawText": "V2 = UT",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 14,
+			"containerId": null,
+			"originalText": "V2 = UT"
+		},
+		{
+			"id": "vatS35dt",
+			"type": "text",
+			"x": 78.35185750325519,
+			"y": -152.91438293457034,
+			"width": 9,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#be4bdb",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1802271412,
+			"version": 2,
+			"versionNonce": 2094369036,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1675255752724,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 14,
+			"containerId": "z3cQNRbyB8FHfHCqU2F4q",
+			"originalText": ""
 		}
 	],
 	"appState": {
@@ -340,10 +458,10 @@ a7d0142fecdbd7dc50fcb8e8b7150c58814efdd2: [[Pasted Image 20230201105909_235.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 353,
-		"scrollY": 442.47918701171875,
+		"scrollX": 421.22222222222223,
+		"scrollY": 599.1643998887804,
 		"zoom": {
-			"value": 1
+			"value": 0.9
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
