@@ -9,13 +9,21 @@ is in ohmic region, $M_{2}$ is in saturation
 
 The current correlator measures the correlation between unidirectional input currents.
 
-Mead recognized that in **subthreshold** operation, the current-correlator circuit in Fig. 6.12 computes a measure of the correlation between its two input currents. M1 
+Mead recognized that in **subthreshold** operation, the current-correlator circuit in Fig. 6.12 computes a measure of the correlation between its two input currents. 
+
+![[Pasted image 20230201141739.png]]
 
 $I_{out} = \frac{I_{1}I_{2}}{(I_{1}+I_{2})}$
+
+The n-input current correlator computes the parallel combination of the
+input currents. The maximum number of inputs can be large, because the
+only requirement for correct circuit operation is that the top transistor in the
+correlator be saturated. However, the output current scales as $\frac{1}{n}$.
 
 ![[Pasted image 20230201135058.png|400]]
 ![[Pasted image 20230201135105.png|300]]
 **Strength ratio:**
+(the scaling factor)
 ![[Pasted image 20230201110626.png|300]]
 
 
