@@ -25,3 +25,5 @@ By differentiating the equations with respect to the terminal's voltage, we obta
 
 ![[Pasted image 20230201172050.png]]
 
+![[Pasted image 20230201173839.png]]
+![[Pasted image 20230201173931.png]]

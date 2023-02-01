@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuromorphic engineering/Neuromorphic engineering.md",
+                "file": "Neuromorphic engineering/Transconductance amplifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conductances.md",
+                "file": "Neuromorphic engineering/Transconductance amplifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conductances.md",
+                "file": "Neuromorphic engineering/Transconductance amplifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conductances.md"
+                "file": "Neuromorphic engineering/Transconductance amplifier.md"
               }
             }
           }
@@ -185,17 +184,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "4c432db14351559b",
+  "active": "89d4fc71cacc2143",
   "lastOpenFiles": [
-    "Neuromorphic engineering/Neuromorphic engineering.md",
     "Neuromorphic engineering/Neuromorphic Circuits.md",
+    "Neuromorphic engineering/Neuromorphic engineering.md",
+    "Conductances.md",
     "Current correlator.md",
     "Bump anti bump.md",
     "Source follower.md",
     "Neuromorphic engineering/Current mirror.md",
     "Excalidraw/Current correlator 2023-02-01 10.58.39.excalidraw.md",
     "Neuromorphic engineering/Differenial pair.md",
-    "Excalidraw/Differenial pair 2023-01-25 11.03.54.excalidraw.md",
-    "Body effect.md"
+    "Excalidraw/Differenial pair 2023-01-25 11.03.54.excalidraw.md"
   ]
 }
