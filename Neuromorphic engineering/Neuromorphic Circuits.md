@@ -85,6 +85,7 @@ The equations change a bit, but luckily we dont work much in this regime
 - [[Current mirror]]
 - [[Differenial pair]]
 - [[Current correlator]]
+- [[Source follower]]
 - [[Bump anti bump]]
 - [[Unity gain follower]]
 - [[Transampedance amplifier]]

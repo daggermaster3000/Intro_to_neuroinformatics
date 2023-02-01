@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "ad3ec07c2f426bb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source follower.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9665a7d6e1aa9756",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuromorphic engineering/Differenial pair.md",
+                "file": "Source follower.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuromorphic engineering/Differenial pair.md",
+                "file": "Source follower.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuromorphic engineering/Differenial pair.md"
+                "file": "Source follower.md"
               }
             }
           }
@@ -197,13 +209,13 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "17dd840df74b9527",
+  "active": "ad3ec07c2f426bb7",
   "lastOpenFiles": [
-    "Excalidraw/Differenial pair 2023-01-25 11.03.54.excalidraw.md",
-    "Neuromorphic engineering/Differenial pair.md",
-    "Neuromorphic engineering/Current mirror.md",
-    "Current correlator.md",
     "Neuromorphic engineering/Neuromorphic Circuits.md",
+    "Neuromorphic engineering/Current mirror.md",
+    "Neuromorphic engineering/Differenial pair.md",
+    "Current correlator.md",
+    "Excalidraw/Differenial pair 2023-01-25 11.03.54.excalidraw.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
     "Body effect.md",
     "MOS transistors.md",

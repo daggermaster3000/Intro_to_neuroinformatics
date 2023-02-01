@@ -41,3 +41,6 @@ Compressive non-linearities are very useful for implementation of different func
 
 This circuit is also combined with the [[Current mirror]] (to implement an $I_{1}-I_{2}$ output ) to get the [[Transconductance amplifier]].
 
+## Transconductance
+
+![[Pasted image 20230201111807.png]]

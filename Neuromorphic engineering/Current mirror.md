@@ -18,3 +18,5 @@ The input current $I_{in}$ sets $V_{g}$ through the $M_{1}$ diode connection and
 The dependence of the output on the difference in the source potentials is described by (if $M_{2}$ is in saturation):
 
 $I_{out} = e^{(V_{s_{1}}-V_{s_{2}})/U_{T}}I_{in}$
+
+![[Pasted image 20230201112127.png|300]]
