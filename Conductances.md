@@ -8,15 +8,20 @@ In the small-signal model, the change in the transistor current due to very smal
 
 **Referenced to the bulk voltage**
 
-Gate transconductance:
+- Gate transconductance:
 ![[Pasted image 20230201171904.png|200]]
 (how the current changes with a small change in the gate)
 
-Source conductance:
+- Source conductance:
 ![[Pasted image 20230201171918.png|200]]
 (how the current changes with a small change in the source)
 
-
+- Drain conductance:
 ![[Pasted image 20230201171931.png|200]]
+
+Referenced to the source:
+![[Pasted image 20230201173612.png|400]]
+By differentiating the equations with respect to the terminal's voltage, we obtain the "real" equations.
+
 ![[Pasted image 20230201172050.png]]
 
