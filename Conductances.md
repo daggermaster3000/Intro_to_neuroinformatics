@@ -5,9 +5,18 @@ The concept comes from the small signal model of a transistor.
 In the small-signal model, the change in the transistor current due to very small changes in each of the terminal voltages, can be expressed as conductances (gate, source and drain).
 
 ![[Pasted image 20230201171729.png|400]]
+
+**Referenced to the bulk voltage**
+
+Gate transconductance:
 ![[Pasted image 20230201171904.png|200]]
-(also transconductance)
+(how the current changes with a small change in the gate)
+
+Source conductance:
 ![[Pasted image 20230201171918.png|200]]
+(how the current changes with a small change in the source)
+
+
 ![[Pasted image 20230201171931.png|200]]
 ![[Pasted image 20230201172050.png]]
 
