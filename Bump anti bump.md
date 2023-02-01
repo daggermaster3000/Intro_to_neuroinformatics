@@ -1,9 +1,10 @@
  
-**Input:** $I1$ and $I_{2}$
-**Output:** $I_{1}$
-**Settings:** 
-**Notes:** For it to work all must be in [[Regimes#Subthreshold Regime]]. $M_{1}$
-is in ohmic region, $M_{2}$ is in saturation
+**Input:** $\Delta V$
+**Output:** $I_{1}$, $I_{2}$ and $I_{out}$
+**Settings:** $V_{b}$
+**Notes:** $I_{1}+I_{2}$ form the antibump output
+
+Intuitively, we can understand the operation of this circuit as follows: The three currents must sum to the bias current $I_{b}$; hence, the voltage $V_{c}$ follows the higher of $V_{1}$ or $V_{2}$. The series-connected transistors M1 and M2 form the core of the same analog current correlator that is used in the current-correlator.When $\Delta V=0$ current flows through all three legs of the circuit. When $\Delta V|$
 
 ![[Pasted image 20230201135222.png]]
 
