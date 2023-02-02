@@ -31,9 +31,13 @@ where $V_{E}$ is the [[early voltage]] of $M_{2}$ and $M_{5}$.
 
 
 **Voltage amplifier**
-- Open circuit voltage gain:
+- Open circuit voltage gain (increases with the early voltage):
 ![[Pasted image 20230202113406.png]]
 $Vout$ increases with $V_{1}$ and decreases with $V_{2}$ the gate of $M_{1}$ is called **non-inverting** (+) input terminal and the gate of $M_{2}$ is called **inverting** input terminal (-).
+
+Often the amp is used as a comparator: outputs a high voltage if $V_{1}>V_{2}$ and a low voltage if $V_{1}<V_{2}$.
+
+**Output voltage limits**
 
 
 ![[Pasted image 20230201182359.png]]

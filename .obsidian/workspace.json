@@ -42,20 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ad3ec07c2f426bb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Source follower.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuromorphic engineering/Transconductance amplifier.md",
+                "file": "Bump anti bump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuromorphic engineering/Transconductance amplifier.md",
+                "file": "Bump anti bump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuromorphic engineering/Transconductance amplifier.md"
+                "file": "Bump anti bump.md"
               }
             }
           }
@@ -184,15 +173,15 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "89d4fc71cacc2143",
+  "active": "fa0ead8783490c38",
   "lastOpenFiles": [
-    "Bump anti bump.md",
+    "Source follower.md",
     "Neuromorphic engineering/Transconductance amplifier.md",
+    "Bump anti bump.md",
     "Neuromorphic engineering/Neuromorphic Circuits.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
     "Conductances.md",
     "Current correlator.md",
-    "Source follower.md",
     "Neuromorphic engineering/Current mirror.md",
     "Excalidraw/Current correlator 2023-02-01 10.58.39.excalidraw.md",
     "Neuromorphic engineering/Differenial pair.md"
