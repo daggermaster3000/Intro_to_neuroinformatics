@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bump anti bump.md",
+                "file": "Neuromorphic engineering/Transconductance amplifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bump anti bump.md",
+                "file": "Neuromorphic engineering/Transconductance amplifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bump anti bump.md"
+                "file": "Neuromorphic engineering/Transconductance amplifier.md"
               }
             }
           }
@@ -173,11 +172,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "fa0ead8783490c38",
+  "active": "89d4fc71cacc2143",
   "lastOpenFiles": [
+    "Bump anti bump.md",
     "Source follower.md",
     "Neuromorphic engineering/Transconductance amplifier.md",
-    "Bump anti bump.md",
     "Neuromorphic engineering/Neuromorphic Circuits.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
     "Conductances.md",
