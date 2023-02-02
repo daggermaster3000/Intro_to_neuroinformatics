@@ -8,6 +8,7 @@
 ![[Transconductance amplifier 2023-01-25 14.02.29.excalidraw.svg]]
 %%[[Transconductance amplifier 2023-01-25 14.02.29.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Transconductance amplifier 2023-01-25 14.02.29.excalidraw.dark.svg|dark exported image]]%%
 
+![[Pasted image 20230202112634.png]]
 For small differential voltages (e.g. $|V1 − V2| < 200mV$), the tanh(·) relationship is approximately linear and can be reduced to a linear one:
 
 $I_{\text {out }}=I_b \tanh \left(\frac{\kappa}{2 U_T}\left(V_1-V_2\right)\right)$
