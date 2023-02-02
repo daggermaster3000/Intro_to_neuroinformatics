@@ -9,6 +9,7 @@ Can be used as a differential voltage to current converter or a voltage amplifie
 ![[Transconductance amplifier 2023-01-25 14.02.29.excalidraw.svg]]
 %%[[Transconductance amplifier 2023-01-25 14.02.29.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Transconductance amplifier 2023-01-25 14.02.29.excalidraw.dark.svg|dark exported image]]%%
 
+**Current converter**
 ![[Pasted image 20230202112634.png]]
 ![[Pasted image 20230202112743.png]]
 For small differential voltages (e.g. $|V1 − V2| < 200mV$), the tanh(·) relationship is approximately linear and can be reduced to a linear one:
@@ -26,5 +27,13 @@ $g_{m}$ is the [[transconductance]] of the amplifier (it has the dimensions of a
 $g_{d}=-\frac{\delta I_{out}}{\delta V_{out}}=\frac{I_{b}}{V_{E}}$
 
 where $V_{E}$ is the [[early voltage]] of $M_{2}$ and $M_{5}$.
+
+
+
+**Voltage amplifier**
+- Open circuit voltage gain:
+![[Pasted image 20230202113406.png]]
+$Vout$ increases with $V_{1}$ and decreases with $V_{2}$ the gate of $M_{1}$ is called **non-inverting** (+) input terminal and the gate of $M_{2}$ is called **inverting** input terminal (-).
+
 
 ![[Pasted image 20230201182359.png]]
