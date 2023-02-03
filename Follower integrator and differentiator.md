@@ -7,6 +7,8 @@ The classic follower integrator above, once made, cannot change its time constan
 It is made up of a unity gain follower and a capacitor on the output node. From KCL we get:
 ![[Pasted image 20230203192027.png]]
 
+In small signal regime the amplifier operates in it's linear range. So we get:
+![[Pasted image 20230203192813.png]]
 
 ## Differentiators
 
