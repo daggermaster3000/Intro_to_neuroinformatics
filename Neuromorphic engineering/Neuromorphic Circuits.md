@@ -81,6 +81,7 @@ The equations change a bit, but luckily we dont work much in this regime
 
 
 ## The circuits
+- [[Diode connected FET]]
 - [[Current source]]
 - [[Current mirror]]
 - [[Differenial pair]]
