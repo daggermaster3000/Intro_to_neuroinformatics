@@ -2,8 +2,10 @@
 
 ## Integrators
 ![[Pasted image 20230203191648.png]]
-The classic follower integrator above, once made, cannot change its time constant. The 
+The classic follower integrator above, once made, cannot change its time constant. The transconductance amplifier below has an adjustable time constant (by setting $V_{b}$). 
 ![[Pasted image 20230203191206.png]]
+It is made up of a unity gain follower and a capacitor on the output node. From KCL we get:
+![[Pasted image 20230203192027.png]]
 
 
 ## Differentiators
