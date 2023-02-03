@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuromorphic engineering/Neuromorphic Circuits.md",
+                "file": "Follower integrator and differentiator.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unity gain follower.md",
+                "file": "Follower integrator and differentiator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unity gain follower.md",
+                "file": "Follower integrator and differentiator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity gain follower.md"
+                "file": "Follower integrator and differentiator.md"
               }
             }
           }
@@ -185,9 +184,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "320af77b03c6d1b2",
+  "active": "89d4fc71cacc2143",
   "lastOpenFiles": [
     "Neuromorphic engineering/Neuromorphic Circuits.md",
+    "Unity gain follower.md",
     "Conductances.md",
     "Diode connected FET.md",
     "Neuromorphic engineering/Transconductance amplifier.md",
@@ -195,7 +195,6 @@
     "Source follower.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
     "Current correlator.md",
-    "Neuromorphic engineering/Current mirror.md",
-    "Excalidraw/Current correlator 2023-02-01 10.58.39.excalidraw.md"
+    "Neuromorphic engineering/Current mirror.md"
   ]
 }
