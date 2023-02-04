@@ -93,7 +93,7 @@ The equations change a bit, but luckily we dont work much in this regime
 - [[Follower integrator and differentiator]]
 - [[WTA]]
 - [[Photoreceptor]]
-- [[Axon hillock]]
+- [[Neurons]]
 - [[Transconductance amplifier]]
 - [[Spike generating mechanism]]
 - [[Conductance based neuron]]

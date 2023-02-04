@@ -35,3 +35,6 @@ For n cells: each $Iout=\frac{I_{b}}{n}$
 
 ![[WTA 2023-02-04 16.00.01.excalidraw.svg]]
 %%[[WTA 2023-02-04 16.00.01.excalidraw.md|🖋 Edit in Excalidraw]], and the [[WTA 2023-02-04 16.00.01.excalidraw.dark.svg|dark exported image]]%%
+
+**Hysterethetic**
+![[Pasted image 20230204162619.png]]
