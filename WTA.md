@@ -1,0 +1,1 @@
+A winner takes all circuit is a network of competing cells that reports only the response 
