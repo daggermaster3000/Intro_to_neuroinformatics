@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/WTA 2023-02-04 16.00.01.excalidraw.md",
+                "file": "WTA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/WTA 2023-02-04 16.00.01.excalidraw.md",
+                "file": "WTA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/WTA 2023-02-04 16.00.01.excalidraw.md"
+                "file": "WTA.md"
               }
             }
           }
@@ -184,52 +184,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "floating": {
-    "id": "b348f2b5f39a6a58",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3158ba43393cd7e5",
-        "type": "window",
-        "children": [
-          {
-            "id": "f897ede56482330b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4ec3d252397debe4",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/WTA 2023-02-04 16.00.01.excalidraw.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4ec3d252397debe4",
+  "active": "89d4fc71cacc2143",
   "lastOpenFiles": [
-    "WTA.md",
-    "current conveyer.md",
     "Neuromorphic engineering/Neuromorphic Circuits.md",
+    "WTA.md",
+    "Excalidraw/WTA 2023-02-04 16.00.01.excalidraw.md",
+    "current conveyer.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
     "Neuromorphic engineering/Synapse analog circuit.md",
     "images/Pasted Image 20230201105909_235.png",
     "images/Pasted image 20230201110626.png",
     "Follower integrator and differentiator.md",
-    "Unity gain follower.md",
-    "Conductances.md"
+    "Unity gain follower.md"
   ]
 }
