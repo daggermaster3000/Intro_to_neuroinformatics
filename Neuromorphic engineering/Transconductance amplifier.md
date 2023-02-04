@@ -47,11 +47,16 @@ The output range is restricted to:
 In order tom keep M5 and M2 in saturation.
 ![[Pasted image 20230204123749.png]]
 
-
+-   For V1>V2:
+    
+    I1 is equal to Ib and I2 is 0, therefore the current in the mirror is Ib which will lead to charging of the "node capacitor" and eventually M5 will go out of saturation as Vout will go up to Vdd.
 ![[Pasted image 20230201182359.png]]
-
+-   For V1<V2:
+    
+    V2 is equal to Ib and I1 is 0, therefore the current in the current mirror is also 0. Which will lead to a discharge in the "node capacitor" and the M2 NFET voltage will drop to 0 and as M2 goes out of saturation,Vout≈Vs.
 
 
 ## Wide range transamp
 
 ![[Pasted image 20230204120557.png]]
+The current mirror transistors, in order be in saturation need a �� that is lower than ���−4�� so �� must satisfy this condition as well. �� must also keep M3 in saturation and must therefore be greater than 4��. We end up with �1 charging the "capacitor node" at ���� and �2 discharging it. And the only boundary on Vout is then
