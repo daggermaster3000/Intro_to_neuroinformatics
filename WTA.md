@@ -7,10 +7,13 @@ The transfer function of the inhibitory neuron is:
 Of course all units may have or not a linear threshold and this complicates things. 
 
 # Current mode WTA circuit
-
+![[Pasted image 20230204151741.png]]
 **Facts**
+current mode means that the voltages "adapt to the current that is flowing"
 - continuous time analog circuit
 - parralel processing of the inputs
 - each cell is infact a [[current conveyer]]
-- 
+- Can be extended to $n$ cells by connecting others to the $Vc$ node
+- Input currents are applied using subthreshold pFETs
+- **output:** all the $I_{outs}$
 
