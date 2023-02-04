@@ -37,10 +37,12 @@ $Vout$ increases with $V_{1}$ and decreases with $V_{2}$ the gate of $M_{1}$ is 
 
 Often the amp is used as a comparator: outputs a high voltage if $V_{1}>V_{2}$ and a low voltage if $V_{1}<V_{2}$.
 ![[Pasted image 20230204120507.png]]
+
 **Output voltage limits**
 Since in the open circuit is normally at one of its limits, we will now determine where those limits lie. If $V_{1}$ is larger than $V_{2}$ , $M_{4}$ goes out of saturation.
 
 ![[Pasted image 20230201182359.png]]
 
 ## Wide range transamp
+
 ![[Pasted image 20230204120557.png]]
