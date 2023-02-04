@@ -18,6 +18,11 @@ Small signal we see an exponential response (or a bigger one):
 ![[Follower integrator and differentiator 2023-02-04 13.22.25.excalidraw.svg]]
 %%[[Follower integrator and differentiator 2023-02-04 13.22.25.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Follower integrator and differentiator 2023-02-04 13.22.25.excalidraw.dark.svg|dark exported image]]%%
 
+Examples from the lab :
+![[Pasted image 20230204133437.png]]
+![[Pasted image 20230204133505.png]]
+
+
 ## Differentiators (high pass filters)
 It acts as a differentiator for long times and low frequencies, for short times it just follows the input.
 

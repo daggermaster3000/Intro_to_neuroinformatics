@@ -12,5 +12,7 @@ The poles are the natural response of the system to a step input.
 ## S-PLANE
 
 ![[Pasted image 20230204132806.png]]
+x's are the poles.
 
-The magnitude of the transfer function is 
+The magnitude of the transfer function is "how well the system responds at a given frequency":
+![[Pasted image 20230204133318.png]]
