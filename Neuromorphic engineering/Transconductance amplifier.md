@@ -57,8 +57,7 @@ In order tom keep M5 and M2 in saturation.
 
 
 ## Wide range transamp
-The current $I_{2}$ is mirrored twice such that the output stage is symmetric and decoupled from the input stage. This decoupling also allows the design of output stages with large open-
-loop gains
+The current $I_{2}$ is mirrored twice such that the output stage is symmetric and decoupled from the input stage. This decoupling also allows the design of output stages with large open-loop gains or large output currents. Disadvantages of this extension are the need for almost twice as many transistors as for the basic version, and the increased effect of mismatches due to fabrication tolerances.
 
 ![[Pasted image 20230204120557.png]]
 The current mirror transistors, in order be in saturation need a $Vds$ that is lower than $Vdd−4UT$so Vs must satisfy this condition as well. $Vs$ must also keep M3 in saturation and must therefore be greater than $4UT$. We end up with $I1$ charging the "capacitor node" at $Iout$ and $I2$ discharging it. And the only boundary on Vout is then $4UT$
