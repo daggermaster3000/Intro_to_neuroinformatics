@@ -6,4 +6,11 @@ The transfer function of the inhibitory neuron is:
 ![[Pasted image 20230204150626.png]]
 Of course all units may have or not a linear threshold and this complicates things. 
 
+# Current mode WTA circuit
+
+**Facts**
+- continuous time analog circuit
+- parralel processing of the inputs
+- each cell is infact a [[current conveyer]]
+- 
 
