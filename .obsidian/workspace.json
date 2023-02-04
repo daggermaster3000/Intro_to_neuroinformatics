@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Follower integrator and differentiator.md",
+                "file": "Neuromorphic engineering/Synapse analog circuit.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,33 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4c432db14351559b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conductances.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa0ead8783490c38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bump anti bump.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conductances.md",
+                "file": "Neuromorphic engineering/Synapse analog circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conductances.md",
+                "file": "Neuromorphic engineering/Synapse analog circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conductances.md"
+                "file": "Neuromorphic engineering/Synapse analog circuit.md"
               }
             }
           }
@@ -197,17 +172,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "4c432db14351559b",
+  "active": "a75bbf71c2b6cf35",
   "lastOpenFiles": [
-    "Follower integrator and differentiator.md",
-    "Heaviside.md",
+    "images/Pasted Image 20230201105909_235.png",
+    "images/Pasted image 20230201110626.png",
+    "Neuromorphic engineering/Synapse analog circuit.md",
     "Neuromorphic engineering/Neuromorphic Circuits.md",
-    "Excalidraw/Follower integrator and differentiator 2023-02-04 13.22.25.excalidraw.md",
-    "Neuromorphic engineering/Transconductance amplifier.md",
+    "Follower integrator and differentiator.md",
     "Unity gain follower.md",
-    "Excalidraw/Transconductance amplifier 2023-01-25 14.02.29.excalidraw.md",
     "Conductances.md",
-    "Diode connected FET.md",
-    "Bump anti bump.md"
+    "Heaviside.md",
+    "Excalidraw/Follower integrator and differentiator 2023-02-04 13.22.25.excalidraw.md",
+    "Neuromorphic engineering/Transconductance amplifier.md"
   ]
 }
