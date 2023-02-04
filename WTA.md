@@ -17,6 +17,13 @@ current mode means that the voltages "adapt to the current that is flowing"
 - Input currents are applied using subthreshold pFETs
 - **output:** all the $I_{outs}$ and all the $Vd$.
 
+**Explanation:**
+- Transistors M1 and M2 discharge nodes $V_{d}$ and implement inhibitory feedback.
+- M3 and M4 charge $Vc$ and implement excitatory feedforward. 
+- The circuit selects the largest input current $Iin$ because the cell in question provides $I_{out} \approx I_{b}$ and suppresses all other output voltages and currents. Also it its $Vd$ determines $Vc$  
+
+
+
 ![[Pasted image 20230204155008.png]]
 ## Conditions
 
