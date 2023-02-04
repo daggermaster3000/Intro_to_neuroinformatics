@@ -28,7 +28,10 @@ current mode means that the voltages "adapt to the current that is flowing"
 ## Conditions
 
 - $I_{in_{1}} = I_{in_{2}}=I_{in}$
-
+This means the current flowing through both transistors is equal (because m1 and m2 are both tied to $Vc$) and so their drain voltage smust take the same value. So output transistors M3 and M4 will have the same $Vgs$. ($=V_{d}-V_{c}$). 
+For n cells: each $Iout=\frac{I_{b}}{n}$
 
 - $I_{in_{1}}\gg I_{in_{2}}$
-- 
+
+![[WTA 2023-02-04 16.00.01.excalidraw.svg]]
+%%[[WTA 2023-02-04 16.00.01.excalidraw.md|🖋 Edit in Excalidraw]], and the [[WTA 2023-02-04 16.00.01.excalidraw.dark.svg|dark exported image]]%%
