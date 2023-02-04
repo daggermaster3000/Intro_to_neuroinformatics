@@ -15,5 +15,13 @@ current mode means that the voltages "adapt to the current that is flowing"
 - each cell is infact a [[current conveyer]]
 - Can be extended to $n$ cells by connecting others to the $Vc$ node
 - Input currents are applied using subthreshold pFETs
-- **output:** all the $I_{outs}$
+- **output:** all the $I_{outs}$ and all the $Vd$.
 
+![[Pasted image 20230204155008.png]]
+## Conditions
+
+- $I_{in_{1}} = I_{in_{2}}=I_{in}$
+
+
+- $I_{in_{1}}\gg I_{in_{2}}$
+- 
