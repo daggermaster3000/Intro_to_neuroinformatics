@@ -9,3 +9,4 @@ frequency vs current curve:
 # Axon Hillock circuit
 ![[Pasted image 20230204163022.png]]
 
+![[Pasted image 20230204171441.png]]
