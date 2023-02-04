@@ -7,4 +7,10 @@ The poles are the natural response of the system to a step input.
 ## How to
 ![[Pasted image 20230204130830.png|500]]
 
+
+
+## S-PLANE
+
+![[Pasted image 20230204132806.png]]
+
 The magnitude of the transfer function is 
