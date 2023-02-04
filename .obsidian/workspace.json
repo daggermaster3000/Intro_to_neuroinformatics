@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Follower integrator and differentiator.md",
+                "file": "Heaviside.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Follower integrator and differentiator.md",
+                "file": "Heaviside.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Follower integrator and differentiator.md"
+                "file": "Heaviside.md"
               }
             }
           }
@@ -196,17 +197,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "89d4fc71cacc2143",
+  "active": "33267ec5618dd9f9",
   "lastOpenFiles": [
-    "Heaviside.md",
     "Follower integrator and differentiator.md",
     "Neuromorphic engineering/Neuromorphic Circuits.md",
+    "Excalidraw/Follower integrator and differentiator 2023-02-04 13.22.25.excalidraw.md",
+    "Heaviside.md",
     "Neuromorphic engineering/Transconductance amplifier.md",
     "Unity gain follower.md",
     "Excalidraw/Transconductance amplifier 2023-01-25 14.02.29.excalidraw.md",
     "Conductances.md",
     "Diode connected FET.md",
-    "Bump anti bump.md",
-    "Source follower.md"
+    "Bump anti bump.md"
   ]
 }

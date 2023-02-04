@@ -15,7 +15,8 @@ In small signal regime the amplifier operates in it's linear range. So we get:
 ![[Pasted image 20230203192813.png]]
 Often analyzed using [[Heaviside]]
 Small signal we see an exponential response (or a bigger one):
-![[Pasted image 20230204132100.png|400]]
+![[Follower integrator and differentiator 2023-02-04 13.22.25.excalidraw.svg]]
+%%[[Follower integrator and differentiator 2023-02-04 13.22.25.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Follower integrator and differentiator 2023-02-04 13.22.25.excalidraw.dark.svg|dark exported image]]%%
 
 ## Differentiators (high pass filters)
 It acts as a differentiator for long times and low frequencies, for short times it just follows the input.

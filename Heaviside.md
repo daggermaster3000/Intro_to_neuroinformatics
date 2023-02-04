@@ -6,3 +6,5 @@ The poles are the natural response of the system to a step input.
 ![[Pasted image 20230204131058.png]]
 ## How to
 ![[Pasted image 20230204130830.png|500]]
+
+The magnitude of the transfer function is 
