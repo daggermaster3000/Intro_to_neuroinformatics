@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Follower integrator and differentiator.md",
+                "file": "Conductances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Follower integrator and differentiator.md",
+                "file": "Conductances.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Follower integrator and differentiator.md"
+                "file": "Conductances.md"
               }
             }
           }
@@ -196,10 +197,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "89d4fc71cacc2143",
+  "active": "4c432db14351559b",
   "lastOpenFiles": [
-    "Heaviside.md",
     "Follower integrator and differentiator.md",
+    "Heaviside.md",
     "Neuromorphic engineering/Neuromorphic Circuits.md",
     "Excalidraw/Follower integrator and differentiator 2023-02-04 13.22.25.excalidraw.md",
     "Neuromorphic engineering/Transconductance amplifier.md",
