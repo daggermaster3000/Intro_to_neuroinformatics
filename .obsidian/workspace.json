@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "14ac153caf0e1469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "current conveyer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "33267ec5618dd9f9",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WTA.md",
+                "file": "current conveyer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WTA.md",
+                "file": "current conveyer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WTA.md"
+                "file": "current conveyer.md"
               }
             }
           }
@@ -172,8 +185,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "89d4fc71cacc2143",
+  "active": "14ac153caf0e1469",
   "lastOpenFiles": [
+    "WTA.md",
     "Neuromorphic engineering/Neuromorphic Circuits.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
     "Neuromorphic engineering/Synapse analog circuit.md",
@@ -182,7 +196,6 @@
     "Follower integrator and differentiator.md",
     "Unity gain follower.md",
     "Conductances.md",
-    "Heaviside.md",
-    "Excalidraw/Follower integrator and differentiator 2023-02-04 13.22.25.excalidraw.md"
+    "Heaviside.md"
   ]
 }
