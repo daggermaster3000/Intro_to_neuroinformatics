@@ -14,6 +14,8 @@ It is made up of a unity gain follower and a capacitor on the output node. From 
 In small signal regime the amplifier operates in it's linear range. So we get:
 ![[Pasted image 20230203192813.png]]
 Often analyzed using [[Heaviside]]
+Small signal we see an exponential response (or a bigger one):
+![[Pasted image 20230204132100.png|400]]
 
 ## Differentiators (high pass filters)
 It acts as a differentiator for long times and low frequencies, for short times it just follows the input.
