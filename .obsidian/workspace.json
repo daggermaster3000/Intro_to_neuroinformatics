@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "33267ec5618dd9f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heaviside.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "320af77b03c6d1b2",
             "type": "leaf",
             "state": {
@@ -187,14 +199,14 @@
   "active": "89d4fc71cacc2143",
   "lastOpenFiles": [
     "Neuromorphic engineering/Neuromorphic Circuits.md",
+    "Follower integrator and differentiator.md",
+    "Heaviside.md",
     "Neuromorphic engineering/Transconductance amplifier.md",
     "Unity gain follower.md",
     "Excalidraw/Transconductance amplifier 2023-01-25 14.02.29.excalidraw.md",
-    "Follower integrator and differentiator.md",
     "Conductances.md",
     "Diode connected FET.md",
     "Bump anti bump.md",
-    "Source follower.md",
-    "Neuromorphic engineering/Neuromorphic engineering.md"
+    "Source follower.md"
   ]
 }
