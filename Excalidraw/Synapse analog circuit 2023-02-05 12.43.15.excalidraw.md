@@ -237,7 +237,7 @@ Always pushing current ^eWDE2QbQ
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 479,
-		"scrollY": 480.75,
+		"scrollY": 380.75,
 		"zoom": {
 			"value": 1
 		},
