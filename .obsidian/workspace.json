@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuromorphic engineering/Synapse analog circuit.md",
+                "file": "Excalidraw/Synapse analog circuit 2023-02-05 12.43.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuromorphic engineering/Synapse analog circuit.md",
+                "file": "Excalidraw/Synapse analog circuit 2023-02-05 12.43.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuromorphic engineering/Synapse analog circuit.md"
+                "file": "Excalidraw/Synapse analog circuit 2023-02-05 12.43.15.excalidraw.md"
               }
             }
           }
@@ -196,10 +196,45 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "89d4fc71cacc2143",
+  "floating": {
+    "id": "b348f2b5f39a6a58",
+    "type": "floating",
+    "children": [
+      {
+        "id": "146ee8d57e271b1b",
+        "type": "window",
+        "children": [
+          {
+            "id": "eba59d286f29f3e0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7b594c0d73d2a6ba",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Synapse analog circuit 2023-02-05 12.43.15.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7b594c0d73d2a6ba",
   "lastOpenFiles": [
-    "Gilbert multiplier.md",
     "Neuromorphic engineering/Synapse analog circuit.md",
+    "Gilbert multiplier.md",
     "Neuromorphic engineering/Neuromorphic Circuits.md",
     "Excalidraw/Synapse analog circuit 2023-02-05 12.23.54.excalidraw.md",
     "Neurons.md",
