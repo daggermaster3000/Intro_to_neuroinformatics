@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuromorphic engineering/Synapse analog circuit.md",
+                "file": "Excalidraw/Synapse analog circuit 2023-02-05 12.23.54.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuromorphic engineering/Synapse analog circuit.md",
+                "file": "Excalidraw/Synapse analog circuit 2023-02-05 12.23.54.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuromorphic engineering/Synapse analog circuit.md"
+                "file": "Excalidraw/Synapse analog circuit 2023-02-05 12.23.54.excalidraw.md"
               }
             }
           }
@@ -196,15 +196,50 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "89d4fc71cacc2143",
+  "floating": {
+    "id": "b348f2b5f39a6a58",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d33ed5b146cef640",
+        "type": "window",
+        "children": [
+          {
+            "id": "563519be59436e47",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eab6449d9374ae6e",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Synapse analog circuit 2023-02-05 12.23.54.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "eab6449d9374ae6e",
   "lastOpenFiles": [
+    "Neuromorphic engineering/Synapse analog circuit.md",
     "Neuromorphic engineering/Neuromorphic Circuits.md",
     "Neurons.md",
     "WTA.md",
     "Excalidraw/WTA 2023-02-04 16.00.01.excalidraw.md",
     "current conveyer.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
-    "Neuromorphic engineering/Synapse analog circuit.md",
     "images/Pasted Image 20230201105909_235.png",
     "images/Pasted image 20230201110626.png",
     "Follower integrator and differentiator.md"
