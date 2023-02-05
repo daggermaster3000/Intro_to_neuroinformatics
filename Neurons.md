@@ -12,3 +12,4 @@ frequency vs current curve:
 ![[Pasted image 20230204171441.png]]
 
 # Plots
+![[Pasted image 20230205105554.png]]
