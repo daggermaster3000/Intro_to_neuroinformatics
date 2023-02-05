@@ -11,7 +11,9 @@ frequency vs current curve:
 
 ![[Pasted image 20230204171441.png]]
 
-
+## The capacitive divider
+Using the principle of charge conservation, we can analyze the system:
+![[Pasted image 20230205112836.png]]
 
 
 # Plots

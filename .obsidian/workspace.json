@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuromorphic engineering/Neuromorphic Circuits.md",
+                "file": "Neuromorphic engineering/Synapse analog circuit.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neurons.md",
+                "file": "Neuromorphic engineering/Synapse analog circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neurons.md",
+                "file": "Neuromorphic engineering/Synapse analog circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neurons.md"
+                "file": "Neuromorphic engineering/Synapse analog circuit.md"
               }
             }
           }
@@ -197,9 +196,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "909ca3176b02358c",
+  "active": "89d4fc71cacc2143",
   "lastOpenFiles": [
     "Neuromorphic engineering/Neuromorphic Circuits.md",
+    "Neurons.md",
     "WTA.md",
     "Excalidraw/WTA 2023-02-04 16.00.01.excalidraw.md",
     "current conveyer.md",
@@ -207,7 +207,6 @@
     "Neuromorphic engineering/Synapse analog circuit.md",
     "images/Pasted Image 20230201105909_235.png",
     "images/Pasted image 20230201110626.png",
-    "Follower integrator and differentiator.md",
-    "Unity gain follower.md"
+    "Follower integrator and differentiator.md"
   ]
 }
