@@ -13,9 +13,9 @@ The analog of a synapse in VLSI is that of a multiplier, the [[Gilbert multiplie
 In a pulse based network, the weighted contribution of a synapse can be implemented using a single transistor.
 - Pfet for excitatory synapse
 - Nfet for inhibitory synapse
-- The weight can be set by changing $Wi$ the biais voltage.
+- The weight can be set by changing $Wi$ the biais voltage or $\Delta t$.
 
-
+**Exponentiall**
 ## The diff. pair integrator circuit
 
 ![[Pasted image 20230125152906.png]]
