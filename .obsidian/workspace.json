@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "9b590d0d580c53c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gilbert multiplier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "909ca3176b02358c",
             "type": "leaf",
             "state": {
@@ -79,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gilbert multiplier.md",
+                "file": "Neuromorphic engineering/Synapse analog circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gilbert multiplier.md",
+                "file": "Neuromorphic engineering/Synapse analog circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gilbert multiplier.md"
+                "file": "Neuromorphic engineering/Synapse analog circuit.md"
               }
             }
           }
@@ -209,8 +196,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "9b590d0d580c53c0",
+  "active": "89d4fc71cacc2143",
   "lastOpenFiles": [
+    "Gilbert multiplier.md",
     "Neuromorphic engineering/Synapse analog circuit.md",
     "Neuromorphic engineering/Neuromorphic Circuits.md",
     "Excalidraw/Synapse analog circuit 2023-02-05 12.23.54.excalidraw.md",
@@ -219,7 +207,6 @@
     "Excalidraw/WTA 2023-02-04 16.00.01.excalidraw.md",
     "current conveyer.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
-    "images/Pasted Image 20230201105909_235.png",
-    "images/Pasted image 20230201110626.png"
+    "images/Pasted Image 20230201105909_235.png"
   ]
 }
