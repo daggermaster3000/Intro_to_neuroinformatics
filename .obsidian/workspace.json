@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuromorphic engineering/circuits/Synapse analog circuit.md",
+                "file": "Neuromorphic engineering/transistors/Regimes.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Neuromorphic engineering/transistors/Regimes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Neuromorphic engineering/transistors/Regimes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Neuromorphic engineering/transistors/Regimes.md"
+              }
             }
           }
         ]
@@ -179,8 +183,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "a75bbf71c2b6cf35",
+  "active": "89d4fc71cacc2143",
   "lastOpenFiles": [
+    "Neuromorphic engineering/Untitled.md",
     "TOC.md",
     "Neuromorphic engineering/circuits/Unity gain follower.md",
     "Neuromorphic engineering/circuits/Neurons.md",
@@ -189,7 +194,6 @@
     "Neuromorphic engineering/circuits/Neuromorphic Circuits.md",
     "Excalidraw/Synapse analog circuit 2023-02-05 12.43.15.excalidraw.md",
     "Neuromorphic engineering/circuits/Gilbert multiplier.md",
-    "Excalidraw/Synapse analog circuit 2023-02-05 12.23.54.excalidraw.md",
-    "Neuromorphic engineering/circuits/WTA.md"
+    "Excalidraw/Synapse analog circuit 2023-02-05 12.23.54.excalidraw.md"
   ]
 }

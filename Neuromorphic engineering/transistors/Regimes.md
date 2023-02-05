@@ -32,7 +32,8 @@ We have different regions of operation depending on $Vds$.
 
 ### Triode/linear
 ![[Pasted image 20230131112047.png|500]]
-The current depends on $Vds$. This region describes the operation of the transistor for small $Vds$.($\leq 4U_{T}$) 
+
+![[Pasted image 20230205154744.png]]The current depends on $Vds$. This region describes the operation of the transistor for small $Vds$.($\leq 4U_{T}$) 
 
 -  $I = I_{0}e^{(\kappa V_{g}-V_{s})/U_{T}}(1-e^{-V_{ds}/U_{T}})$
 
