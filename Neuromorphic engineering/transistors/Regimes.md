@@ -79,6 +79,10 @@ The depletion layer doews not contain any mobile charge and can be regarded as a
 ![[Pasted image 20230206110851.png|400]]
 ![[Pasted image 20230206110711.png|600]]
 ![[Pasted image 20230206103810.png|600]]
-The superthreshold region is delimited by $Vth$ that is the voltage at which the extrapolated $Ids$ is equal to $2$
+The superthreshold region is delimited by $Vth$ that is the voltage at which the extrapolated $Ids$ is equal to $2Ids$. We can view the overdrive voltage as $Vg-Vt$.
 [[Overdrive voltage]]
+
+**Why such an abrupt threshold ?**
+![[Pasted image 20230206111457.png]]
+
 
