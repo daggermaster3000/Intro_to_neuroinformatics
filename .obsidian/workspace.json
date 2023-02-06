@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuromorphic engineering/Neuromorphic engineering.md",
+                "file": "Neuromorphic engineering/circuits/Transconductance amplifier.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,57 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3b650b046526bb8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuromorphic engineering/circuits/Neurons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de9921d07ab9e494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuromorphic engineering/transistors/Overdrive voltage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14ac153caf0e1469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuromorphic engineering/circuits/current conveyer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "320af77b03c6d1b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuromorphic engineering/circuits/Unity gain follower.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuromorphic engineering/circuits/Neurons.md",
+                "file": "Neuromorphic engineering/circuits/Transconductance amplifier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuromorphic engineering/circuits/Neurons.md",
+                "file": "Neuromorphic engineering/circuits/Transconductance amplifier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuromorphic engineering/circuits/Neurons.md"
+                "file": "Neuromorphic engineering/circuits/Transconductance amplifier.md"
               }
             }
           }
@@ -221,17 +173,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "3b650b046526bb8b",
+  "active": "c355361b5e3fc197",
   "lastOpenFiles": [
-    "Photoreceptor.md",
-    "Photodiodes.md",
+    "Neuromorphic engineering/circuits/Neuromorphic Circuits.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
+    "Neuromorphic engineering/transistors/Regimes.md",
+    "Photodiodes.md",
+    "Neuromorphic engineering/transistors/Overdrive voltage.md",
+    "Neuromorphic engineering/circuits/Neurons.md",
+    "Photoreceptor.md",
     "Excalidraw/Photodiodes 2023-02-06 12.52.39.excalidraw.md",
     "Excalidraw/Organization of the brain 2023-01-17 12.44.42.excalidraw.md",
-    "Neuromorphic engineering/transistors/Conductances.md",
-    "Neuromorphic engineering/transistors/MOS transistors.md",
-    "images/Pasted image 20230206112645.png",
-    "Neuromorphic engineering/concepts/Impact ionization.md",
-    "Neuromorphic engineering/transistors/Regimes.md"
+    "Neuromorphic engineering/transistors/Conductances.md"
   ]
 }

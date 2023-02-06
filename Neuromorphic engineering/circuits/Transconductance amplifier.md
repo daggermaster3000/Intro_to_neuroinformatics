@@ -41,6 +41,8 @@ Often the amp is used as a comparator: outputs a high voltage if $V_{1}>V_{2}$ a
 **Output voltage limits**
 Since in the open circuit is normally at one of its limits, we will now determine where those limits lie. If $V_{1}$ is larger than $V_{2}$ , $M_{4}$ goes out of saturation. And we get this shite:
 ![[Pasted image 20230204122112.png]]
+![[Pasted image 20230206153137.png]]
+![[Pasted image 20230206153147.png]]
 Varying V2 highly influences when Vout will make the switch (of course), we can also see that the bigger V2, the longer Vout increases linearly with V1 (with a slope of kappa).
 The output range is restricted to:
 ![[Pasted image 20230204123648.png]]
