@@ -20,6 +20,7 @@ The term neuromorphic was coined by Carver Mead in the late ’80s to describe V
 - ## [[Conductances]]
 - ### [[Neuromorphic Circuits]]
 - ### [[Neuromorphic processors]]
+- ## [[photodiodes]]
 - ## [[AER]]
 - ## [[Neuromorphic vs conventional]]
 - ### [[Conclusions]]

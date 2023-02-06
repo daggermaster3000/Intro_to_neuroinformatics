@@ -1,0 +1,1 @@
+- Energy of a photon : $E = hv$
