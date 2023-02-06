@@ -17,5 +17,7 @@ Intrinsic effect:
 ![[Pasted image 20230206125016.png|600]]
 
 ## Phototransduction
+- A photon of appropriate energy will form electron-hole pairs 
+- 
 ![[Photodiodes 2023-02-06 12.52.39.excalidraw.svg]]
 %%[[Photodiodes 2023-02-06 12.52.39.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Photodiodes 2023-02-06 12.52.39.excalidraw.dark.svg|dark exported image]]%%
