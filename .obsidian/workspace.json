@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuromorphic engineering/transistors/Conductances.md",
+                "file": "Neuromorphic engineering/transistors/MOS transistors.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuromorphic engineering/transistors/Conductances.md",
+                "file": "Neuromorphic engineering/transistors/MOS transistors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuromorphic engineering/transistors/Conductances.md",
+                "file": "Neuromorphic engineering/transistors/MOS transistors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuromorphic engineering/transistors/Conductances.md"
+                "file": "Neuromorphic engineering/transistors/MOS transistors.md"
               }
             }
           }
@@ -198,6 +198,8 @@
   },
   "active": "c355361b5e3fc197",
   "lastOpenFiles": [
+    "Neuromorphic engineering/Neuromorphic engineering.md",
+    "Neuromorphic engineering/transistors/Conductances.md",
     "images/Pasted image 20230206112645.png",
     "Neuromorphic engineering/concepts/Impact ionization.md",
     "Neuromorphic engineering/transistors/Regimes.md",
@@ -205,8 +207,6 @@
     "Neuromorphic engineering/transistors/specific current.md",
     "Neuromorphic engineering/transistors/Overdrive voltage.md",
     "Neuromorphic engineering/transistors/MOS transistors.md",
-    "Neuromorphic engineering/Neuromorphic engineering.md",
-    "TOC.md",
-    "Neuromorphic engineering/Untitled.md"
+    "TOC.md"
   ]
 }

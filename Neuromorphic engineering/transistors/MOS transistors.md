@@ -83,3 +83,6 @@ How do we generate a net current flow through the diode?
 
 
 
+# pfet
+![[Pasted image 20230206114001.png]]
+![[Pasted image 20230206114010.png]]
