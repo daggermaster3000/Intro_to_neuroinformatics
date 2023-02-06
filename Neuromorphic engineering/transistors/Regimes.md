@@ -74,7 +74,11 @@ The current is approximately constant.
 To understand this regime, we need to understand how mobile charge density depends on $V_{gs}$. 
 Inversion occurs when the intrinsic Fermi level crosses the Fermi level near the surface, corresponding to the situation where the minority carrier density is larger than the majority carrier density at the surface.
 ![[Pasted image 20230206110545.png]]
-
-![[Pasted image 20230206103810.png]]
+## Capacitive divider circuit
+The depletion layer doews not contain any mobile charge and can be regarded as a capacitor.
+![[Pasted image 20230206110851.png|400]]
+![[Pasted image 20230206110711.png|600]]
+![[Pasted image 20230206103810.png|600]]
+The superthreshold region is delimited by $Vth$ that is the voltage at which the extrapolated $Ids$ is equal to $2$
 [[Overdrive voltage]]
 
