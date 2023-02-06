@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "photodiodes.md",
+                "file": "Photodiodes.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "photodiodes.md",
+                "file": "Photodiodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "photodiodes.md",
+                "file": "Photodiodes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "photodiodes.md"
+                "file": "Photodiodes.md"
               }
             }
           }
@@ -212,7 +212,7 @@
   "active": "8b579d2a18056530",
   "lastOpenFiles": [
     "Excalidraw/Organization of the brain 2023-01-17 12.44.42.excalidraw.md",
-    "photodiodes.md",
+    "Photodiodes.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
     "Neuromorphic engineering/transistors/Conductances.md",
     "Neuromorphic engineering/transistors/MOS transistors.md",
