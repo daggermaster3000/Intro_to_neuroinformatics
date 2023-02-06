@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photodiodes.md",
+                "file": "Excalidraw/Photodiodes 2023-02-06 12.52.39.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photodiodes.md",
+                "file": "Excalidraw/Photodiodes 2023-02-06 12.52.39.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photodiodes.md"
+                "file": "Excalidraw/Photodiodes 2023-02-06 12.52.39.excalidraw.md"
               }
             }
           }
@@ -209,10 +209,45 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8b579d2a18056530",
+  "floating": {
+    "id": "b348f2b5f39a6a58",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b93133e43a3730fb",
+        "type": "window",
+        "children": [
+          {
+            "id": "794e8f2168317d7d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0ef259ddfe866653",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Photodiodes 2023-02-06 12.52.39.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0ef259ddfe866653",
   "lastOpenFiles": [
-    "Excalidraw/Organization of the brain 2023-01-17 12.44.42.excalidraw.md",
     "Photodiodes.md",
+    "Excalidraw/Organization of the brain 2023-01-17 12.44.42.excalidraw.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
     "Neuromorphic engineering/transistors/Conductances.md",
     "Neuromorphic engineering/transistors/MOS transistors.md",

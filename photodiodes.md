@@ -5,6 +5,8 @@ Cones arte efficiently packed to get a max of light.
 ![[Pasted image 20230206124528.png]]
 ![[Pasted image 20230206124519.png]]
 
+# Basics
+
 - Energy of a photon : $E = \frac{hc}{\lambda}$
 - **Photoelectric effect :**
 Intrinsic effect:
@@ -14,3 +16,6 @@ Intrinsic effect:
 
 ![[Pasted image 20230206125016.png|600]]
 
+## Phototransduction
+![[Photodiodes 2023-02-06 12.52.39.excalidraw.svg]]
+%%[[Photodiodes 2023-02-06 12.52.39.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Photodiodes 2023-02-06 12.52.39.excalidraw.dark.svg|dark exported image]]%%
