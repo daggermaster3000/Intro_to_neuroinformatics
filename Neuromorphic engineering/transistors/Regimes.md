@@ -70,3 +70,7 @@ The current is approximately constant.
 ![[Pasted image 20230201102535.png|400]]
 
 # Above threshold regime
+
+![[Pasted image 20230206103810.png]]
+[[Overdrive voltage]]
+

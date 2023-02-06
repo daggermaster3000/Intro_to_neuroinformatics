@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "de9921d07ab9e494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overdrive voltage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "14ac153caf0e1469",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "a24254a9a28d9887",
@@ -121,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neuromorphic engineering/transistors/Regimes.md",
+                "file": "Overdrive voltage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neuromorphic engineering/transistors/Regimes.md",
+                "file": "Overdrive voltage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neuromorphic engineering/transistors/Regimes.md"
+                "file": "Overdrive voltage.md"
               }
             }
           }
@@ -183,12 +197,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "89d4fc71cacc2143",
+  "active": "de9921d07ab9e494",
   "lastOpenFiles": [
+    "Neuromorphic engineering/transistors/Regimes.md",
     "Neuromorphic engineering/transistors/MOS transistors.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
     "TOC.md",
-    "Neuromorphic engineering/transistors/Regimes.md",
     "Neuromorphic engineering/Untitled.md",
     "Neuromorphic engineering/circuits/Unity gain follower.md",
     "Neuromorphic engineering/circuits/Neurons.md",
