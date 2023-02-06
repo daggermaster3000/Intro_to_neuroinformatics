@@ -71,7 +71,9 @@ The current is approximately constant.
 
 # Above threshold regime (or strong inversion)
 
-To understand this regime, we need to understand how mobile charge density depends on $$
+To understand this regime, we need to understand how mobile charge density depends on $V_{gs}$. 
+Inversion occurs when the intrinsic Fermi level crosses the Fermi level near the surface, corresponding to the situation where the minority carrier density is larger than the majority carrier density at the surface.
+![[Pasted image 20230206110545.png]]
 
 ![[Pasted image 20230206103810.png]]
 [[Overdrive voltage]]
