@@ -16,7 +16,7 @@ Intrinsic effect:
 
 ![[Pasted image 20230206125016.png|600]]
 
-## Phototransduction
+## Phototransduction (in photodiodes)
 - A photon of appropriate energy will form electron-hole pairs 
 - Each generated element will be ywept by the electric field depending where they are generated.
 ![[Photodiodes 2023-02-06 12.52.39.excalidraw.svg]]
@@ -28,5 +28,11 @@ Photons with larger wavelengths penetrate deeper, because they have less energy 
 **Dark current**
 A background current that is still present in absence of optical stimulation. It is due to large doping concentrations->high conductivity but shite snr.
 
-**SNR**
-Electron hole pairs generated in the depletion region (and within a diffusion length) are more likely to be separated
+**Photocurrent**
+Electron hole pairs generated in the depletion region (and within a diffusion length) are more likely to be separated resulting in in a reverse current component called _photocurrent_. 
+
+- Logarithmic response 
+- Quantum efficiency:
+![[Pasted image 20230206131326.png]]
+
+## [[Photoreceptor]]
