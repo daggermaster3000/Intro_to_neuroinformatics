@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photoreceptor.md",
+                "file": "Neuromorphic engineering/circuits/Neurons.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photoreceptor.md",
+                "file": "Neuromorphic engineering/circuits/Neurons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photoreceptor.md",
+                "file": "Neuromorphic engineering/circuits/Neurons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photoreceptor.md"
+                "file": "Neuromorphic engineering/circuits/Neurons.md"
               }
             }
           }
@@ -223,6 +223,7 @@
   },
   "active": "3b650b046526bb8b",
   "lastOpenFiles": [
+    "Photoreceptor.md",
     "Photodiodes.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
     "Excalidraw/Photodiodes 2023-02-06 12.52.39.excalidraw.md",
@@ -231,7 +232,6 @@
     "Neuromorphic engineering/transistors/MOS transistors.md",
     "images/Pasted image 20230206112645.png",
     "Neuromorphic engineering/concepts/Impact ionization.md",
-    "Neuromorphic engineering/transistors/Regimes.md",
-    "Neuromorphic engineering/concepts/DIBL.md"
+    "Neuromorphic engineering/transistors/Regimes.md"
   ]
 }

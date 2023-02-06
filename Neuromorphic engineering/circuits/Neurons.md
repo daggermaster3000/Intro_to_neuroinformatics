@@ -7,6 +7,7 @@ frequency vs current curve:
 
 
 # Axon Hillock circuit
+In this circuit, an integrating capacitor is connected to two inverters, a feedback capacitor, and a reset transistor driven by the output inverter.
 ![[Pasted image 20230204163022.png]]
 
 ![[Pasted image 20230204171441.png]]
