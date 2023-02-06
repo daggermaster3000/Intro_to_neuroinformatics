@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overdrive voltage.md",
+                "file": "Neuromorphic engineering/transistors/Regimes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overdrive voltage.md",
+                "file": "Neuromorphic engineering/transistors/Regimes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overdrive voltage.md"
+                "file": "Neuromorphic engineering/transistors/Regimes.md"
               }
             }
           }
@@ -197,8 +196,9 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "de9921d07ab9e494",
+  "active": "89d4fc71cacc2143",
   "lastOpenFiles": [
+    "Overdrive voltage.md",
     "Neuromorphic engineering/transistors/Regimes.md",
     "Neuromorphic engineering/transistors/MOS transistors.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
@@ -207,7 +207,6 @@
     "Neuromorphic engineering/circuits/Unity gain follower.md",
     "Neuromorphic engineering/circuits/Neurons.md",
     "images/Pasted Image 20230205124335_112.png",
-    "Neuromorphic engineering/circuits/Synapse analog circuit.md",
-    "Neuromorphic engineering/circuits/Neuromorphic Circuits.md"
+    "Neuromorphic engineering/circuits/Synapse analog circuit.md"
   ]
 }

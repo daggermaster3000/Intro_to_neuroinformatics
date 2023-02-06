@@ -69,7 +69,9 @@ The current is approximately constant.
 ![[Pasted image 20230201102413.png|400]]
 ![[Pasted image 20230201102535.png|400]]
 
-# Above threshold regime
+# Above threshold regime (or strong inversion)
+
+To understand this regime, we need to understand how mobile charge density depends on $$
 
 ![[Pasted image 20230206103810.png]]
 [[Overdrive voltage]]
