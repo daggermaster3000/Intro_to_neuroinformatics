@@ -42,7 +42,7 @@ Taking Taylor's expansion series, we can show that $I$ is approximately linear w
 note on kappa: 
 - $\kappa$ is the capacitive coupling ratio:
 ![[Pasted image 20230201095103.png]]
-- It is also the slop of the log linear plot of $I$ vs $Vg$ in subthreshold (**subthreshold slope factor**).
+- It is also the slope of the log linear plot of $I$ vs $Vg$ in subthreshold (**subthreshold slope factor**).
 - It varies slowly with $V_{g}$ but is assumed as constant
 - Ranges from $0.5$ to $0.9$
 
@@ -69,4 +69,4 @@ The current is approximately constant.
 ![[Pasted image 20230201102413.png|400]]
 ![[Pasted image 20230201102535.png|400]]
 
-# Above threshold region
+# Above threshold regime
