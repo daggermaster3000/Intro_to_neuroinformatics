@@ -1,2 +1,0 @@
-- occurs if $Vd$ is high enough to give ionization energy to electrons
-- 
