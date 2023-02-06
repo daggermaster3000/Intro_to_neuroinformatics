@@ -23,3 +23,10 @@ Intrinsic effect:
 %%[[Photodiodes 2023-02-06 12.52.39.excalidraw.md|🖋 Edit in Excalidraw]], and the [[Photodiodes 2023-02-06 12.52.39.excalidraw.dark.svg|dark exported image]]%%
 ![[Pasted image 20230206130354.png|500]]
 The quantum  efficiency can be optimized by applying an anti-reflection coating to the semi-conductor surface to reduce and by generating a thick depletion (also by increasing $Vdt$) region close to the surface.
+Photons with larger wavelengths penetrate deeper, because they have less energy and are thus less likely to generate an electron-hole pair at any given location in the material.
+
+**Dark current**
+A background current that is still present in absence of optical stimulation. It is due to large doping concentrations->high conductivity but shite snr.
+
+**SNR**
+Electron hole pairs generated in the depletion region (and within a diffusion length) are more likely to be separated
