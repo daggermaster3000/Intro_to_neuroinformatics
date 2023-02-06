@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "f613e4a6b13b2aa2",
+            "id": "c355361b5e3fc197",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "specific current.md",
+                "file": "Impact ionization.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,18 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "Neuromorphic engineering/circuits/current conveyer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33267ec5618dd9f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuromorphic engineering/concepts/Heaviside.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "specific current.md",
+                "file": "Impact ionization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "specific current.md",
+                "file": "Impact ionization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "specific current.md"
+                "file": "Impact ionization.md"
               }
             }
           }
@@ -209,17 +197,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "f613e4a6b13b2aa2",
+  "active": "c355361b5e3fc197",
   "lastOpenFiles": [
     "Neuromorphic engineering/transistors/Regimes.md",
+    "DIBL.md",
+    "specific current.md",
     "Overdrive voltage.md",
     "Neuromorphic engineering/transistors/MOS transistors.md",
     "Neuromorphic engineering/Neuromorphic engineering.md",
     "TOC.md",
     "Neuromorphic engineering/Untitled.md",
     "Neuromorphic engineering/circuits/Unity gain follower.md",
-    "Neuromorphic engineering/circuits/Neurons.md",
-    "images/Pasted Image 20230205124335_112.png",
-    "Neuromorphic engineering/circuits/Synapse analog circuit.md"
+    "Neuromorphic engineering/circuits/Neurons.md"
   ]
 }

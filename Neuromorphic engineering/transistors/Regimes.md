@@ -91,4 +91,6 @@ $\frac{1}{\kappa}$ is the efficiency of the source in raising the threshold volt
 ![[Pasted image 20230206111912.png]]
 
 - [[specific current]]
+- [[DIBL]]
+- [[Impact ionization]]
 - 
