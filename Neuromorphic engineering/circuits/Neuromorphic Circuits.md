@@ -15,7 +15,6 @@ Here we can see that the curve is similar to an IV curve from a channel.
 Where the bulk, $V_{b}$ is connected to $GND$. The current flows from drain to source (think about electron source) and depends on:
 
 $I_{ds} = I_{0}e^{\kappa V_{g}/U_{T}}(e^{-V_{s}/U_{T}}-e^{-V_{d}/U_{T}})$
-
 which is equivalent to:
 
 $I_{ds} = I_{0}e^{\kappa V_{g}/U_{T}-V_{s}/U_{T}}-I_{0}e^{\kappa V_{d}/U_{T}-V_{s}/U_{T}}= I_{f}-I_{r}$
